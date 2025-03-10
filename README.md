@@ -1,8 +1,12 @@
 ![GUI Preview](gui.png)
 
 # Random-ML-Paper-Picker
+**"Studying papers in an unexpected field is exciting!"** :smile:
+
 A simple Python application for randomly selecting research papers from multiple top-tier machine learning conferences.  
+
 Users can filter papers by conference & year, and pick a random paper that meets their criteria.
+
 
 # Prerequisites
 1. Download the **paperlist** from: [PaperCopilot Paperlists](https://github.com/papercopilot/paperlists).
