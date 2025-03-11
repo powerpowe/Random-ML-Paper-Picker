@@ -1,0 +1,2437 @@
+[
+    {
+        "author": "Hongyi Liu, Qingyun Wang, Payam Karisani, Heng Ji:",
+        "title": "Named Entity Recognition Under Domain Shift via Metric Learning for Life Sciences",
+        "status": "accept"
+    },
+    {
+        "author": "Hongyi Yuan, Zheng Yuan, Chuanqi Tan, Fei Huang, Songfang Huang:",
+        "title": "Text Diffusion Model with Encoder-Decoder Transformers for Sequence-to-Sequence Generation",
+        "status": "accept"
+    },
+    {
+        "author": "Nikhil Mehta, Dan Goldwasser:",
+        "title": "An Interactive Framework for Profiling News Media Sources",
+        "status": "accept"
+    },
+    {
+        "author": "Yinghao Li, Haorui Wang, Chao Zhang:",
+        "title": "Assessing Logical Puzzle Solving in Large Language Models: Insights from a Minesweeper Case Study",
+        "status": "accept"
+    },
+    {
+        "author": "Taeyang Yun, Hyunkuk Lim, Jeonghwan Lee, Min Song:",
+        "title": "TelME: Teacher-leading Multimodal Fusion Network for Emotion Recognition in Conversation",
+        "status": "accept"
+    },
+    {
+        "author": "Seanie Lee, Jianpeng Cheng, Joris Driesen, Alexandru Coca, Anders Johannsen:",
+        "title": "Effective and Efficient Conversation Retrieval for Dialogue State Tracking with Implicit Text Summaries",
+        "status": "accept"
+    },
+    {
+        "author": "Maitrey Mehta, Valentina Pyatkin, Vivek Srikumar:",
+        "title": "Promptly Predicting Structures: The Return of Inference",
+        "status": "accept"
+    },
+    {
+        "author": "Yutong Shao, Ndapa Nakashole:",
+        "title": "On Linearizing Structured Data in Encoder-Decoder Language Models: Insights from Text-to-SQL",
+        "status": "accept"
+    },
+    {
+        "author": "Thang Le, Anh Tuan Luu:",
+        "title": "Extractive Summarization with Text Generator",
+        "status": "accept"
+    },
+    {
+        "author": "Michele Resta, Davide Bacciu:",
+        "title": "Self-generated Replay Memories for Continual Neural Machine Translation",
+        "status": "accept"
+    },
+    {
+        "author": "Yangyi Chen, Karan Sikka, Michael Cogswell, Heng Ji, Ajay Divakaran:",
+        "title": "Measuring and Improving Chain-of-Thought Reasoning in Vision-Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Shreya Havaldar, Salvatore Giorgi, Sunny Rai, Thomas Talhelm, Sharath Chandra Guntuku, Lyle H. Ungar:",
+        "title": "Building Knowledge-Guided Lexica to Model Cultural Variation",
+        "status": "accept"
+    },
+    {
+        "author": "Shangqian Gao, Ting Hua, Yen-Chang Hsu, Yilin Shen, Hongxia Jin:",
+        "title": "Adaptive Rank Selections for Low-Rank Approximation of Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Pengzhi Gao, Ruiqing Zhang, Zhongjun He, Hua Wu, Haifeng Wang:",
+        "title": "An Empirical Study of Consistency Regularization for End-to-End Speech-to-Text Translation",
+        "status": "accept"
+    },
+    {
+        "author": "Zhenhailong Wang, Shaoguang Mao, Wenshan Wu, Tao Ge, Furu Wei, Heng Ji:",
+        "title": "Unleashing the Emergent Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration",
+        "status": "accept"
+    },
+    {
+        "author": "Ziyang Wang, Sanwoo Lee, Hsiu-Yuan Huang, Yunfang Wu:",
+        "title": "FPT: Feature Prompt Tuning for Few-shot Readability Assessment",
+        "status": "accept"
+    },
+    {
+        "author": "Junlong Li, Jinyuan Wang, Zhuosheng Zhang, Hai Zhao:",
+        "title": "Self-Prompting Large Language Models for Zero-Shot Open-Domain QA",
+        "status": "accept"
+    },
+    {
+        "author": "Kai Sun, Yifan Ethan Xu, Hanwen Zha, Yue Liu, Xin Luna Dong:",
+        "title": "Head-to-Tail: How Knowledgeable are Large Language Models (LLMs)? A",
+        "status": "accept"
+    },
+    {
+        "author": "Wenting Zhao, Ye Liu, Yao Wan, Yibo Wang, Qingyang Wu, Zhongfen Deng, Jiangshu Du, Shuaiqi Liu, Yunlong Xu, Philip S. Yu:",
+        "title": "kNN-ICL: Compositional Task-Oriented Parsing Generalization with Nearest Neighbor In-Context Learning",
+        "status": "accept"
+    },
+    {
+        "author": "Jon Saad-Falcon, Omar Khattab, Christopher Potts, Matei Zaharia:",
+        "title": "ARES: An Automated Evaluation Framework for Retrieval-Augmented Generation Systems",
+        "status": "accept"
+    },
+    {
+        "author": "Fan Zhang, Xian-Sheng Hua, Chong Chen, Xiao Luo:",
+        "title": "DEMO: A Statistical Perspective for Efficient Image-Text Matching",
+        "status": "accept"
+    },
+    {
+        "author": "Bin Wang, Zhengyuan Liu, Xin Huang, Fangkai Jiao, Yang Ding, AiTi Aw, Nancy Chen:",
+        "title": "SeaEval for Multilingual Foundation Models: From Cross-Lingual Alignment to Cultural Reasoning",
+        "status": "accept"
+    },
+    {
+        "author": "Seongyun Lee, Sue Hyun Park, Yongrae Jo, Minjoon Seo:",
+        "title": "Volcano: Mitigating Multimodal Hallucination through Self-Feedback Guided Revision",
+        "status": "accept"
+    },
+    {
+        "author": "Samuel Cahyawijaya, Holy Lovenia, Pascale Fung:",
+        "title": "LLMs Are Few-Shot In-Context Low-Resource Language Learners",
+        "status": "accept"
+    },
+    {
+        "author": "Yuekun Yao, Alexander Koller:",
+        "title": "Simple and effective data augmentation for compositional generalization",
+        "status": "accept"
+    },
+    {
+        "author": "Tianyang Liu, Fei Wang, Muhao Chen:",
+        "title": "Rethinking Tabular Data Understanding with Large Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Qin Liu, Fei Wang, Chaowei Xiao, Muhao Chen:",
+        "title": "From Shortcuts to Triggers: Backdoor Defense with Denoised PoE",
+        "status": "accept"
+    },
+    {
+        "author": "Rahul Kumar, Amar Raja Dibbu, Shrutendra Harsola, Vignesh Subrahmaniam, Ashutosh Modi:",
+        "title": "BookSQL: A Large Scale Text-to-SQL Dataset for Accounting Domain",
+        "status": "accept"
+    },
+    {
+        "author": "Shamik Roy, Sailik Sengupta, Daniele Bonadiman, Saab Mansour, Arshit Gupta:",
+        "title": "FLAP: Flow-Adhering Planning with Constrained Decoding in LLMs",
+        "status": "accept"
+    },
+    {
+        "author": "Yuxi Feng, Laks V. S. Lakshmanan:",
+        "title": "DuRE: Dual Contrastive Self Training for Semi-Supervised Relation Extraction",
+        "status": "accept"
+    },
+    {
+        "author": "Zhen Yu, Zhenhua Chen, Kun He:",
+        "title": "Query-Efficient Textual Adversarial Example Generation for Black-Box Attacks",
+        "status": "accept"
+    },
+    {
+        "author": "Kung-Hsiang Huang, Philippe Laban, Alexander R. Fabbri, Prafulla Kumar Choubey, Shafiq Joty, Caiming Xiong, Chien-Sheng Wu:",
+        "title": "Embrace Divergence for Richer Insights: A Multi-document Summarization Benchmark and a Case Study on Summarizing Diverse Information from News Articles",
+        "status": "accept"
+    },
+    {
+        "author": "Haoyi Qiu, Kung-Hsiang Huang, Jingnong Qu, Nanyun Peng:",
+        "title": "AMRFact: Enhancing Summarization Factuality Evaluation with AMR-Driven Negative Samples Generation",
+        "status": "accept"
+    },
+    {
+        "author": "Lang Cao, Zifeng Wang, Cao Xiao, Jimeng Sun:",
+        "title": "PILOT: Legal Case Outcome Prediction with Case Law",
+        "status": "accept"
+    },
+    {
+        "author": "Zequan Liu, Jiawen Lyn, Wei Zhu, Xing Tian, Yvette Graham:",
+        "title": "ALoRA: Allocating Low-Rank Adaptation for Fine-tuning Large Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Heng-Jui Chang, James R. Glass:",
+        "title": "R-Spin: Efficient Speaker and Noise-invariant Representation Learning with Acoustic Pieces",
+        "status": "accept"
+    },
+    {
+        "author": "Yifan Wang, Yafei Liu, Chufan Shi, Haoling Li, Chen Chen, Haonan Lu, Yujiu Yang:",
+        "title": "InsCL: A Data-efficient Continual Learning Paradigm for Fine-tuning Large Language Models with Instructions",
+        "status": "accept"
+    },
+    {
+        "author": "Saiteja Utpala, Alex Gu, Pin-Yu Chen:",
+        "title": "Language Agnostic Code Embeddings",
+        "status": "accept"
+    },
+    {
+        "author": "Teli Ma, Rong Li, Junwei Liang:",
+        "title": "An Examination of the Compositionality of Large Generative Vision-Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Victoria Graf, Qin Liu, Muhao Chen:",
+        "title": "Two Heads are Better than One: Nested PoE for Robust Defense Against Multi-Backdoors",
+        "status": "accept"
+    },
+    {
+        "author": "Jonathan Rusert:",
+        "title": "VertAttack: Taking Advantage of Text Classifiers' Horizontal Vision",
+        "status": "accept"
+    },
+    {
+        "author": "Cong-Duy Nguyen, Thong Nguyen, Xiaobao Wu, Anh Tuan Luu:",
+        "title": "KDMCSE: Knowledge Distillation Multimodal Sentence Embeddings with Adaptive Angular margin Contrastive Learning",
+        "status": "accept"
+    },
+    {
+        "author": "Jian Zhu, Changbing Yang, Farhan Samir, Jahurul Islam:",
+        "title": "The taste of IPA: Towards open-vocabulary keyword spotting and forced alignment in any language",
+        "status": "accept"
+    },
+    {
+        "author": "Yunqi Zhang, Songda Li, Chunyuan Deng, Luyi Wang, Hui Zhao:",
+        "title": "Think Before You Act: A Two-Stage Framework for Mitigating Gender Bias Towards Vision-Language Tasks",
+        "status": "accept"
+    },
+    {
+        "author": "Xianming Li, Jing Li:",
+        "title": "BeLLM: Backward Dependency Enhanced Large Language Model for Sentence Embeddings",
+        "status": "accept"
+    },
+    {
+        "author": "Weixuan Wang, Barry Haddow, Alexandra Birch, Wei Peng:",
+        "title": "Assessing Factual Reliability of Large Language Model Knowledge",
+        "status": "accept"
+    },
+    {
+        "author": "Zhenpeng Su, Xing Wu, Wei Zhou, Guangyuan Ma, Songlin Hu:",
+        "title": "Dial-MAE: ConTextual Masked Auto-Encoder for Retrieval-based Dialogue Systems",
+        "status": "accept"
+    },
+    {
+        "author": "Cheng Qian, Chenyan Xiong, Zhenghao Liu, Zhiyuan Liu:",
+        "title": "Toolink: Linking Toolkit Creation and Using through Chain-of-Solving on Open-Source Model",
+        "status": "accept"
+    },
+    {
+        "author": "Letian Wang, Xianggen Liu, Jiancheng Lv:",
+        "title": "Create! Don't Repeat: A Paradigm Shift in Multi-Label Augmentation through Label Creative Generation",
+        "status": "accept"
+    },
+    {
+        "author": "Ali Safaya, Deniz Yuret:",
+        "title": "Neurocache: Efficient Vector Retrieval for Long-range Language Modeling",
+        "status": "accept"
+    },
+    {
+        "author": "Haoran Yang, Yumeng Zhang, Jiaqi Xu, Hongyuan Lu, Pheng-Ann Heng, Wai Lam:",
+        "title": "Unveiling the Generalization Power of Fine-Tuned Large Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Ruixin Hong, Hongming Zhang, Xinyu Pang, Dong Yu, Changshui Zhang:",
+        "title": "A Closer Look at the Self-Verification Abilities of Large Language Models in Logical Reasoning",
+        "status": "accept"
+    },
+    {
+        "author": "Fangkai Jiao, Zhiyang Teng, Bosheng Ding, Zhengyuan Liu, Nancy F. Chen, Shafiq Joty:",
+        "title": "Exploring Self-supervised Logic-enhanced Training for Large Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Debrup Das, Debopriyo Banerjee, Somak Aditya, Ashish Kulkarni:",
+        "title": "MATHSENSEI: A Tool-Augmented Large Language Model for Mathematical Reasoning",
+        "status": "accept"
+    },
+    {
+        "author": "Dawei Zhu, Wenhao Wu, Yifan Song, Fangwei Zhu, Ziqiang Cao, Sujian Li:",
+        "title": "CoUDA: Coherence Evaluation via Unified Data Augmentation",
+        "status": "accept"
+    },
+    {
+        "author": "Vipul Raheja, Dimitris Alikaniotis, Vivek Kulkarni, Bashar Alhafni, Dhruv Kumar:",
+        "title": "mEdIT: Multilingual Text Editing via Instruction Tuning",
+        "status": "accept"
+    },
+    {
+        "author": "Yunchao Zhang, Zonglin Di, Kaiwen Zhou, Cihang Xie, Xin Wang:",
+        "title": "Navigation as Attackers Wish? Towards Building Robust Embodied Agents under Federated Learning",
+        "status": "accept"
+    },
+    {
+        "author": "Gilad Deutch, Nadav Magar, Tomer Bar Natan, Guy Dar:",
+        "title": "In-context Learning and Gradient Descent Revisited",
+        "status": "accept"
+    },
+    {
+        "author": "Olufunke Oluyemi Sarumi, Béla Neuendorf, Joan Plepi, Lucie Flek, Jörg Schlötterer, Charles Welch:",
+        "title": "Corpus Considerations for Annotator Modeling and Scaling",
+        "status": "accept"
+    },
+    {
+        "author": "Che Jiang, Biqing Qi, Xiangyu Hong, Dayuan Fu, Yang Cheng, Fandong Meng, Mo Yu, Bowen Zhou, Jie Zhou:",
+        "title": "On Large Language Models' Hallucination with Regard to Known Facts",
+        "status": "accept"
+    },
+    {
+        "author": "Li Lucy, Su Lin Blodgett, Milad Shokouhi, Hanna M. Wallach, Alexandra Olteanu:",
+        "title": "\"One-Size-Fits-All\"? Examining Expectations around What Constitute \"Fair\" or \"Good\" NLG System Behaviors",
+        "status": "accept"
+    },
+    {
+        "author": "Jian Guan, Jesse Dodge, David Wadden, Minlie Huang, Hao Peng:",
+        "title": "Language Models Hallucinate, but May Excel at Fact Verification",
+        "status": "accept"
+    },
+    {
+        "author": "Bowen Ding, Qingkai Min, Shengkun Ma, Yingjie Li, Linyi Yang, Yue Zhang:",
+        "title": "A Rationale-centric Counterfactual Data Augmentation Method for Cross-Document Event Coreference Resolution",
+        "status": "accept"
+    },
+    {
+        "author": "Mengxin Zheng, Jiaqi Xue, Xun Chen, Yanshan Wang, Qian Lou, Lei Jiang:",
+        "title": "TrojFSP: Trojan Insertion in Few-shot Prompt Tuning",
+        "status": "accept"
+    },
+    {
+        "author": "Yi Luo, Zhenghao Lin, Yuhao Zhang, Jiashuo Sun, Chen Lin, Chengjin Xu, Xiangdong Su, Yelong Shen, Jian Guo, Yeyun Gong:",
+        "title": "Ensuring Safe and High-Quality Outputs: A Guideline Library Approach for Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Juan Diego Rodriguez, Katrin Erk, Greg Durrett:",
+        "title": "X-PARADE: Cross-Lingual Textual Entailment and Information Divergence across Paragraphs",
+        "status": "accept"
+    },
+    {
+        "author": "Rajiv Movva, Sidhika Balachandar, Kenny Peng, Gabriel Agostini, Nikhil Garg, Emma Pierson:",
+        "title": "Topics, Authors, and Institutions in Large Language Model Research: Trends from 17K arXiv Papers",
+        "status": "accept"
+    },
+    {
+        "author": "Zhehao Zhang, Yan Gao, Jian-Guang Lou:",
+        "title": "E⁵: Zero-shot Hierarchical Table Analysis using Augmented LLMs via Explain, Extract, Execute, Exhibit and Extrapolate",
+        "status": "accept"
+    },
+    {
+        "author": "Fangyu Lei, Qian Liu, Yiming Huang, Shizhu He, Jun Zhao, Kang Liu:",
+        "title": "S3Eval: A Synthetic, Scalable, Systematic Evaluation Suite for Large Language Model",
+        "status": "accept"
+    },
+    {
+        "author": "Fuxiao Liu, Xiaoyang Wang, Wenlin Yao, Jianshu Chen, Kaiqiang Song, Sangwoo Cho, Yaser Yacoob, Dong Yu:",
+        "title": "MMC: Advancing Multimodal Chart Understanding with Large-scale Instruction Tuning",
+        "status": "accept"
+    },
+    {
+        "author": "Chengxu Zhuang, Evelina Fedorenko, Jacob Andreas:",
+        "title": "Visual Grounding Helps Learn Word Meanings in Low-Data Regimes",
+        "status": "accept"
+    },
+    {
+        "author": "Hendra Setiawan:",
+        "title": "Accurate Knowledge Distillation via n-best Reranking",
+        "status": "accept"
+    },
+    {
+        "author": "Zhaorun Chen, Zhuokai Zhao, Zhihong Zhu, Ruiqi Zhang, Xiang Li, Bhiksha Raj, Huaxiu Yao:",
+        "title": "AutoPRM: Automating Procedural Supervision for Multi-Step Reasoning via Controllable Question Decomposition",
+        "status": "accept"
+    },
+    {
+        "author": "Tal Schuster, Ádám D. Lelkes, Haitian Sun, Jai Gupta, Jonathan Berant, William W. Cohen, Donald Metzler:",
+        "title": "SEMQA: Semi-Extractive Multi-Source Question Answering",
+        "status": "accept"
+    },
+    {
+        "author": "Hao Lang, Fei Huang, Yongbin Li:",
+        "title": "Fine-Tuning Language Models with Reward Learning on Policy",
+        "status": "accept"
+    },
+    {
+        "author": "Robert Pugh, Francis M. Tyers:",
+        "title": "A Universal Dependencies Treebank for Highland Puebla Nahuatl",
+        "status": "accept"
+    },
+    {
+        "author": "Haryo Akbarianto Wibowo, Erland Hilman Fuadi, Made Nindyatama Nityasya, Radityo Eko Prasojo, Alham Fikri Aji:",
+        "title": "COPAL-ID: Indonesian Language Reasoning with Local Culture and Nuances",
+        "status": "accept"
+    },
+    {
+        "author": "Xiusi Chen, Hongzhi Wen, Sreyashi Nag, Chen Luo, Qingyu Yin, Ruirui Li, Zheng Li, Wei Wang:",
+        "title": "IterAlign: Iterative Constitutional Alignment of Large Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Chia-Hsuan Lee, Hao Cheng, Mari Ostendorf:",
+        "title": "OrchestraLLM: Efficient Orchestration of Language Models for Dialogue State Tracking",
+        "status": "accept"
+    },
+    {
+        "author": "Marco Valentino, Jordan Meadows, Lan Zhang, André Freitas:",
+        "title": "Multi-Operational Mathematical Derivations in Latent Space",
+        "status": "accept"
+    },
+    {
+        "author": "Chenglei Si, Navita Goyal, Tongshuang Wu, Chen Zhao, Shi Feng, Hal Daumé III, Jordan L. Boyd-Graber:",
+        "title": "Large Language Models Help Humans Verify Truthfulness - Except When They Are Convincingly Wrong",
+        "status": "accept"
+    },
+    {
+        "author": "Brendon Boldt, David R. Mortensen:",
+        "title": "XferBench: a Data-Driven Benchmark for Emergent Language",
+        "status": "accept"
+    },
+    {
+        "author": "Se-eun Yoon, Zhankui He, Jessica Maria Echterhoff, Julian J. McAuley:",
+        "title": "Evaluating Large Language Models as Generative User Simulators for Conversational Recommendation",
+        "status": "accept"
+    },
+    {
+        "author": "Jordan Meadows, Marco Valentino, Damien Teney, André Freitas:",
+        "title": "A Symbolic Framework for Evaluating Mathematical Reasoning and Generalisation with Transformers",
+        "status": "accept"
+    },
+    {
+        "author": "David Chanin, Anthony Hunter, Oana-Maria Camburu:",
+        "title": "Identifying Linear Relational Concepts in Large Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Venelin Kovatchev, Matthew Lease:",
+        "title": "Benchmark Transparency: Measuring the Impact of Data on Evaluation",
+        "status": "accept"
+    },
+    {
+        "author": "Jillian Fisher, Ximing Lu, Jaehun Jung, Liwei Jiang, Zaïd Harchaoui, Yejin Choi:",
+        "title": "JAMDEC: Unsupervised Authorship Obfuscation using Constrained Decoding over Small Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Zhenyu He, Zexuan Zhong, Tianle Cai, Jason D. Lee, Di He:",
+        "title": "REST: Retrieval-Based Speculative Decoding",
+        "status": "accept"
+    },
+    {
+        "author": "Sihao Chen, Hongming Zhang, Tong Chen, Ben Zhou, Wenhao Yu, Dian Yu, Baolin Peng, Hongwei Wang, Dan Roth, Dong Yu:",
+        "title": "Sub-Sentence Encoder: Contrastive Learning of Propositional Semantic Representations",
+        "status": "accept"
+    },
+    {
+        "author": "Mobashir Sadat, Cornelia Caragea:",
+        "title": "MSciNLI: A Diverse Benchmark for Scientific Natural Language Inference",
+        "status": "accept"
+    },
+    {
+        "author": "Bohan Zhang, Yixin Wang, Paramveer Dhillon:",
+        "title": "Causal Inference for Human-Language Model Collaboration",
+        "status": "accept"
+    },
+    {
+        "author": "Zezhong Wang, Fangkai Yang, Lu Wang, Pu Zhao, Hongru Wang, Liang Chen, Qingwei Lin, Kam-Fai Wong:",
+        "title": "SELF-GUARD: Empower the LLM to Safeguard Itself",
+        "status": "accept"
+    },
+    {
+        "author": "Jinpeng Li, Hang Yu, Xiangfeng Luo, Qian Liu:",
+        "title": "COSIGN: Contextual Facts Guided Generation for Knowledge Graph Completion",
+        "status": "accept"
+    },
+    {
+        "author": "Zhewei Sun, Qian Hu, Rahul Gupta, Richard S. Zemel, Yang Xu:",
+        "title": "Toward Informal Language Processing: Knowledge of Slang in Large Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Vivek Verma, Eve Fleisig, Nicholas Tomlin, Dan Klein:",
+        "title": "Ghostbuster: Detecting Text Ghostwritten by Large Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Jiahao Zhang, Haiyang Zhang, Dongmei Zhang, Yong Liu, Shen Huang:",
+        "title": "End-to-End Beam Retrieval for Multi-Hop Question Answering",
+        "status": "accept"
+    },
+    {
+        "author": "Binghao Tang, Boda Lin, Haolong Yan, Si Li:",
+        "title": "Leveraging Generative Large Language Models with Visual Instruction and Demonstration Retrieval for Multimodal Sarcasm Detection",
+        "status": "accept"
+    },
+    {
+        "author": "Xiaojun Kuang, C. L. Philip Chen, Shuzhen Li, Tong Zhang:",
+        "title": "Multi-Scale Prompt Memory-Augmented Model for Black-Box Scenarios",
+        "status": "accept"
+    },
+    {
+        "author": "Chenming Tang, Fanyi Qu, Yunfang Wu:",
+        "title": "Ungrammatical-syntax-based In-context Example Selection for Grammatical Error Correction",
+        "status": "accept"
+    },
+    {
+        "author": "Akari Asai, Sneha Kudugunta, Xinyan Yu, Terra Blevins, Hila Gonen, Machel Reid, Yulia Tsvetkov, Sebastian Ruder, Hannaneh Hajishirzi:",
+        "title": "BUFFET: Benchmarking Large Language Models for Few-shot Cross-lingual Transfer",
+        "status": "accept"
+    },
+    {
+        "author": "Yanhe Fu, Yanan Cao, Qingyue Wang, Yi Liu:",
+        "title": "TISE: A Tripartite In-context Selection Method for Event Argument Extraction",
+        "status": "accept"
+    },
+    {
+        "author": "Zhaofeng Wu, Linlu Qiu, Alexis Ross, Ekin Akyürek, Boyuan Chen, Bailin Wang, Najoung Kim, Jacob Andreas, Yoon Kim:",
+        "title": "Reasoning or Reciting? Exploring the Capabilities and Limitations of Language Models Through Counterfactual Tasks",
+        "status": "accept"
+    },
+    {
+        "author": "Yucheng Wang, Bowen Yu, Yilin Liu, Shudong Lu:",
+        "title": "TRUE-UIE: Two Universal Relations Unify Information Extraction Tasks",
+        "status": "accept"
+    },
+    {
+        "author": "Zifeng Ding, Heling Cai, Jingpei Wu, Yunpu Ma, Ruotong Liao, Bo Xiong, Volker Tresp:",
+        "title": "zrLLM: Zero-Shot Relational Learning on Temporal Knowledge Graphs with Large Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Jielin Qiu, Mengdi Xu, William Han, Seungwhan Moon, Ding Zhao:",
+        "title": "Embodied Executable Policy Learning with Language-based Scene Summarization",
+        "status": "accept"
+    },
+    {
+        "author": "Yuqing Wang, Yun Zhao:",
+        "title": "Metacognitive Prompting Improves Understanding in Large Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Suyu Ge, Chunting Zhou, Rui Hou, Madian Khabsa, Yi-Chia Wang, Qifan Wang, Jiawei Han, Yuning Mao:",
+        "title": "MART: Improving LLM Safety with Multi-round Automatic Red-Teaming",
+        "status": "accept"
+    },
+    {
+        "author": "Young-Jun Lee, Byungsoo Ko, Han-Gyu Kim, Jonghwan Hyeon, Ho-Jin Choi:",
+        "title": "DialogCC: An Automated Pipeline for Creating High-Quality Multi-Modal Dialogue Dataset",
+        "status": "accept"
+    },
+    {
+        "author": "Keming Lu, Hongyi Yuan, Runji Lin, Junyang Lin, Zheng Yuan, Chang Zhou, Jingren Zhou:",
+        "title": "Routing to the Expert: Efficient Reward-guided Ensemble of Large Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Jiarui Liu, Wenkai Li, Zhijing Jin, Mona T. Diab:",
+        "title": "Automatic Generation of Model and Data Cards: A Step Towards Responsible AI",
+        "status": "accept"
+    },
+    {
+        "author": "Chen Liu, Jonas Pfeiffer, Ivan Vulic, Iryna Gurevych:",
+        "title": "FUN with Fisher: Improving Generalization of Adapter-Based Cross-lingual Transfer with Scheduled Unfreezing",
+        "status": "accept"
+    },
+    {
+        "author": "Chen Liu, Fajri Koto, Timothy Baldwin, Iryna Gurevych:",
+        "title": "Are Multilingual LLMs Culturally-Diverse Reasoners? An Investigation into Multicultural Proverbs and Sayings",
+        "status": "accept"
+    },
+    {
+        "author": "Shir Lissak, Nitay Calderon, Geva Shenkman, Yaakov Ophir, Eyal Fruchter, Anat Brunstein Klomek, Roi Reichart:",
+        "title": "The Colorful Future of LLMs: Evaluating and Improving LLMs as Emotional Supporters for Queer Youth",
+        "status": "accept"
+    },
+    {
+        "author": "Jianli Zhao, Changhao Xu, Bin. Jiang:",
+        "title": "IPED: An Implicit Perspective for Relational Triple Extraction based on Diffusion Model",
+        "status": "accept"
+    },
+    {
+        "author": "Vishvak Murahari, Ameet Deshpande, Peter Clark, Tanmay Rajpurohit, Ashish Sabharwal, Karthik Narasimhan, Ashwin Kalyan:",
+        "title": "QualEval: Qualitative Evaluation for Model Improvement",
+        "status": "accept"
+    },
+    {
+        "author": "Kehuan Yan, Peichao Lai, Yilei Wang:",
+        "title": "Quantum-inspired Language Model with Lindblad Master Equation and Interference Measurement for Sentiment Analysis",
+        "status": "accept"
+    },
+    {
+        "author": "Dongsheng Zhu, Daniel Tang, Weidong Han, Jinghui Lu, Yukun Zhao, Guoliang Xing, Junfeng Wang, Dawei Yin:",
+        "title": "VisLingInstruct: Elevating Zero-Shot Learning in Multi-Modal Language Models with Autonomous Instruction Optimization",
+        "status": "accept"
+    },
+    {
+        "author": "Peng Ding, Jun Kuang, Dan Ma, Xuezhi Cao, Yunsen Xian, Jiajun Chen, Shujian Huang:",
+        "title": "A Wolf in Sheep's Clothing: Generalized Nested Jailbreak Prompts can Fool Large Language Models Easily",
+        "status": "accept"
+    },
+    {
+        "author": "Yuhan Liu, Shangbin Feng, Xiaochuang Han, Vidhisha Balachandran, Chan Young Park, Sachin Kumar, Yulia Tsvetkov:",
+        "title": "P³Sum: Preserving Author's Perspective in News Summarization with Diffusion Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Rose E. Wang, Qingyang Zhang, Carly Robinson, Susanna Loeb, Dorottya Demszky:",
+        "title": "Bridging the Novice-Expert Gap via Models of Decision-Making: A Case Study on Remediating Math Mistakes",
+        "status": "accept"
+    },
+    {
+        "author": "Dongqi Liu, Vera Demberg:",
+        "title": "RST-LoRA: A Discourse-Aware Low-Rank Adaptation for Long Document Abstractive Summarization",
+        "status": "accept"
+    },
+    {
+        "author": "Yao Lu, Jiayi Wang, Raphael Tang, Sebastian Riedel, Pontus Stenetorp:",
+        "title": "Strings from the Library of Babel: Random Sampling as a Strong Baseline for Prompt Optimisation",
+        "status": "accept"
+    },
+    {
+        "author": "Jinhao Duan, Shiqi Wang, James Diffenderfer, Lichao Sun, Tianlong Chen, Bhavya Kailkhura, Kaidi Xu:",
+        "title": "ReTA: Recursively Thinking Ahead to Improve the Strategic Reasoning of Large Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Payam Karisani, Heng Ji:",
+        "title": "Fact Checking Beyond Training Set",
+        "status": "accept"
+    },
+    {
+        "author": "Anubha Kabra, Sanketh Rangreji, Yash Mathur, Aman Madaan, Emmy Liu, Graham Neubig:",
+        "title": "Program-Aided Reasoners (Better) Know What They Know",
+        "status": "accept"
+    },
+    {
+        "author": "Eve Fleisig, Su Lin Blodgett, Dan Klein, Zeerak Talat:",
+        "title": "The Perspectivist Paradigm Shift: Assumptions and Challenges of Capturing Human Labels",
+        "status": "accept"
+    },
+    {
+        "author": "Aparna Elangovan, Jiayuan He, Yuan Li, Karin Verspoor:",
+        "title": "Principles from Clinical Research for NLP Model Generalization",
+        "status": "accept"
+    },
+    {
+        "author": "Naomi Saphra, Eve Fleisig, Kyunghyun Cho, Adam Lopez:",
+        "title": "First Tragedy, then Parse: History Repeats Itself in the New Era of Large Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Raphael Tang, Xinyu Crystina Zhang, Xueguang Ma, Jimmy Lin, Ferhan Ture:",
+        "title": "Found in the Middle: Permutation Self-Consistency Improves Listwise Ranking in Large Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Xuansheng Wu, Wenlin Yao, Jianshu Chen, Xiaoman Pan, Xiaoyang Wang, Ninghao Liu, Dong Yu:",
+        "title": "From Language Modeling to Instruction Following: Understanding the Behavior Shift in LLMs after Instruction Tuning",
+        "status": "accept"
+    },
+    {
+        "author": "Jerry Junyang Cheung, Yuchen Zhuang, Yinghao Li, Pranav Shetty, Wantian Zhao, Sanjeev Grampurohit, Rampi Ramprasad, Chao Zhang:",
+        "title": "POLYIE: A Dataset of Information Extraction from Polymer Material Scientific Literature",
+        "status": "accept"
+    },
+    {
+        "author": "Kai Zhang, Yangyang Kang, Fubang Zhao, Xiaozhong Liu:",
+        "title": "LLM-based Medical Assistant Personalization with Short- and Long-Term Memory Coordination",
+        "status": "accept"
+    },
+    {
+        "author": "Jacob Parnell, Inigo Jauregi Unanue, Massimo Piccardi:",
+        "title": "SumTra: A Differentiable Pipeline for Few-Shot Cross-Lingual Summarization",
+        "status": "accept"
+    },
+    {
+        "author": "Hanseok Oh, Haebin Shin, Miyoung Ko, Hyunji Lee, Minjoon Seo:",
+        "title": "KTRL+F: Knowledge-Augmented In-Document Search",
+        "status": "accept"
+    },
+    {
+        "author": "Hyunji Lee, Se June Joo, Chaeeun Kim, Joel Jang, Doyoung Kim, Kyoung-Woon On, Minjoon Seo:",
+        "title": "How Well Do Large Language Models Truly Ground? 2437-246",
+        "status": "accept"
+    },
+    {
+        "author": "Vasudha Varadarajan, Sverker Sikström, Oscar N. E. Kjell, H. Andrew Schwartz:",
+        "title": "ALBA: Adaptive Language-Based Assessments for Mental Health",
+        "status": "accept"
+    },
+    {
+        "author": "Wei Zhou, Mohsen Mesgar, Heike Adel, Annemarie Friedrich:",
+        "title": "FREB-TQA: A Fine-Grained Robustness Evaluation Benchmark for Table Question Answering",
+        "status": "accept"
+    },
+    {
+        "author": "Pengyue Jia, Yiding Liu, Xiangyu Zhao, Xiaopeng Li, Changying Hao, Shuaiqiang Wang, Dawei Yin:",
+        "title": "MILL: Mutual Verification with Large Language Models for Zero-Shot Query Expansion",
+        "status": "accept"
+    },
+    {
+        "author": "Yotam Perlitz, Elron Bandel, Ariel Gera, Ofir Arviv, Liat Ein-Dor, Eyal Shnarch, Noam Slonim, Michal Shmueli-Scheuer, Leshem Choshen:",
+        "title": "Efficient Benchmarking (of Language Models)",
+        "status": "accept"
+    },
+    {
+        "author": "Dana Arad, Hadas Orgad, Yonatan Belinkov:",
+        "title": "ReFACT: Updating Text-to-Image Models by Editing the Text Encoder",
+        "status": "accept"
+    },
+    {
+        "author": "V. S. D. S. Mahesh Akavarapu, Arnab Bhattacharya:",
+        "title": "A Likelihood Ratio Test of Genetic Relationship among Languages",
+        "status": "accept"
+    },
+    {
+        "author": "Xuekai Zhu, Biqing Qi, Kaiyan Zhang, Xinwei Long, Zhouhan Lin, Bowen Zhou:",
+        "title": "PaD: Program-aided Distillation Can Teach Small Models Reasoning Better than Chain-of-thought Fine-tuning",
+        "status": "accept"
+    },
+    {
+        "author": "Sanchit Ahuja, Divyanshu Aggarwal, Varun Gumma, Ishaan Watts, Ashutosh Sathe, Millicent Ochieng, Rishav Hada, Prachi Jain, Mohamed Ahmed, Kalika Bali, Sunayana Sitaram:",
+        "title": "MEGAVERSE: Benchmarking Large Language Models Across Languages, Modalities, Models and Tasks",
+        "status": "accept"
+    },
+    {
+        "author": "Zihan Qiu, Zeyu Huang, Jie Fu:",
+        "title": "Unlocking Emergent Modularity in Large Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Maja Stahl, Nadine Michel, Sebastian Kilsbach, Julian Schmidtke, Sara Rezat, Henning Wachsmuth:",
+        "title": "A School Student Essay Corpus for Analyzing Interactions of Argumentative Structure and Quality",
+        "status": "accept"
+    },
+    {
+        "author": "Katrin Erk, Marianna Apidianaki:",
+        "title": "Adjusting Interpretable Dimensions in Embedding Space with Human Judgments",
+        "status": "accept"
+    },
+    {
+        "author": "You Zuo, Kim Gerdes, Éric de la Clergerie, Benoît Sagot:",
+        "title": "PatentEval: Understanding Errors in Patent Generation",
+        "status": "accept"
+    },
+    {
+        "author": "Sai Koneru, Miriam Exel, Matthias Huck, Jan Niehues:",
+        "title": "Contextual Refinement of Translations: Large Language Models for Sentence and Document-Level Post-Editing",
+        "status": "accept"
+    },
+    {
+        "author": "Kaidi Jia, Rongsheng Li:",
+        "title": "Metaphor Detection with Context Enhancement and Curriculum Learning",
+        "status": "accept"
+    },
+    {
+        "author": "Wei Liu, Stephen Wan, Michael Strube:",
+        "title": "What Causes the Failure of Explicit to Implicit Discourse Relation Recognition? 2738-275",
+        "status": "accept"
+    },
+    {
+        "author": "Siddhant Arora, Hayato Futami, Jee-weon Jung, Yifan Peng, Roshan S. Sharma, Yosuke Kashiwagi, Emiru Tsunoo, Karen Livescu, Shinji Watanabe:",
+        "title": "UniverSLU: Universal Spoken Language Understanding for Diverse Tasks with Natural Language Instructions",
+        "status": "accept"
+    },
+    {
+        "author": "Lingbo Mo, Boshi Wang, Muhao Chen, Huan Sun:",
+        "title": "How Trustworthy are Open-Source LLMs? An Assessment under Malicious Demonstrations Shows their Vulnerabilities",
+        "status": "accept"
+    },
+    {
+        "author": "Yue Zhou, Yada Zhu, Diego Antognini, Yoon Kim, Yang Zhang:",
+        "title": "Paraphrase and Solve: Exploring and Exploiting the Impact of Surface Form on Mathematical Reasoning in Large Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Pengcheng Jiang, Cao Xiao, Zifeng Wang, Parminder Bhatia, Jimeng Sun, Jiawei Han:",
+        "title": "TriSum: Learning Summarization Ability from Large Language Models with Structured Rationale",
+        "status": "accept"
+    },
+    {
+        "author": "Pengcheng Jiang, Jiacheng Lin, Zifeng Wang, Jimeng Sun, Jiawei Han:",
+        "title": "GenRES: Rethinking Evaluation for Generative Relation Extraction in the Era of Large Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Andrés Lou, Juan Antonio Pérez-Ortiz, Felipe Sánchez-Martínez, Víctor M. Sánchez-Cartagena:",
+        "title": "Curated Datasets and Neural Models for Machine Translation of Informal Registers between Mayan and Spanish Vernaculars",
+        "status": "accept"
+    },
+    {
+        "author": "Zoey Liu, Bonnie J. Dorr:",
+        "title": "The Effect of Data Partitioning Strategy on Model Generalizability: A Case Study of Morphological Segmentation",
+        "status": "accept"
+    },
+    {
+        "author": "Debasmita Bhattacharya, Siying Ding, Alayna Nguyen, Julia Hirschberg:",
+        "title": "Measuring Entrainment in Spontaneous Code-switched Speech",
+        "status": "accept"
+    },
+    {
+        "author": "Zacchary Sadeddine, Juri Opitz, Fabian M. Suchanek:",
+        "title": "A Survey of Meaning Representations - From Theory to Practical Utility",
+        "status": "accept"
+    },
+    {
+        "author": "Haozhe Zhao, Zefan Cai, Shuzheng Si, Liang Chen, Yufeng He, Kaikai An, Baobao Chang:",
+        "title": "Mitigating Language-Level Performance Disparity in mPLMs via Teacher Language Selection and Cross-lingual Self-Distillation",
+        "status": "accept"
+    },
+    {
+        "author": "Arkil Patel, Siva Reddy, Dzmitry Bahdanau, Pradeep Dasigi:",
+        "title": "Evaluating In-Context Learning of Libraries for Code Generation",
+        "status": "accept"
+    },
+    {
+        "author": "Tingyu Qu, Tinne Tuytelaars, Marie-Francine Moens:",
+        "title": "Visually-Aware Context Modeling for News Image Captioning",
+        "status": "accept"
+    },
+    {
+        "author": "Athul Paul Jacob, Gabriele Farina, Jacob Andreas:",
+        "title": "Regularized Conventions: Equilibrium Computation as a Model of Pragmatic Reasoning",
+        "status": "accept"
+    },
+    {
+        "author": "Chau Pham, Alexander Miserlis Hoyle, Simeng Sun, Philip Resnik, Mohit Iyyer:",
+        "title": "TopicGPT: A Prompt-based Topic Modeling Framework",
+        "status": "accept"
+    },
+    {
+        "author": "Jiazhao Li, Yijin Yang, Zhuofeng Wu, V. G. Vinod Vydiswaran, Chaowei Xiao:",
+        "title": "ChatGPT as an Attack Tool: Stealthy Textual Backdoor Attack via Blackbox Generative Model Trigger",
+        "status": "accept"
+    },
+    {
+        "author": "Naitian Zhou, David Jurgens, David Bamman:",
+        "title": "Social Meme-ing: Measuring Linguistic Variation in Memes",
+        "status": "accept"
+    },
+    {
+        "author": "Chaitanya Malaviya, Subin Lee, Sihao Chen, Elizabeth Sieber, Mark Yatskar, Dan Roth:",
+        "title": "ExpertQA: Expert-Curated Questions and Attributed Answers",
+        "status": "accept"
+    },
+    {
+        "author": "Chaitanya Malaviya, Subin Lee, Dan Roth, Mark Yatskar:",
+        "title": "What if you said that differently?: How Explanation Formats Affect Human Feedback Efficacy and User Perception",
+        "status": "accept"
+    },
+    {
+        "author": "Weiyan Shi, Emily Dinan, Kurt Shuster, Jason Weston, Jing Xu:",
+        "title": "When Life Gives You Lemons, Make Cherryade: Converting Feedback from Bad Responses into Good Labels",
+        "status": "accept"
+    },
+    {
+        "author": "Nathaniel R. Robinson, Raj Dabre, Ammon Shurtz, Rasul Dent, Onenamiyi Onesi, Claire Bizon Monroc, Loïc Grobol, Hasan Muhammad, Ashi Garg, Naome A. Etori, Vijay Murari Tiyyala, Olanrewaju Samuel, Matthew Dean Stutzman, Bismarck Bamfo Odoom, Sanjeev Khudanpur, Stephen D. Richardson, Kenton Murray:",
+        "title": "Kreyòl-MT: Building MT for Latin American, Caribbean and Colonial African Creole Languages",
+        "status": "accept"
+    },
+    {
+        "author": "Jiashu Xu, Mingyu Derek Ma, Fei Wang, Chaowei Xiao, Muhao Chen:",
+        "title": "Instructions as Backdoors: Backdoor Vulnerabilities of Instruction Tuning for Large Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Jiamin Yang, David Jurgens:",
+        "title": "Modeling Empathetic Alignment in Conversation",
+        "status": "accept"
+    },
+    {
+        "author": "Dhiman Goswami, Sharanya Thilagan, Kai North, Shervin Malmasi, Marcos Zampieri:",
+        "title": "Native Language Identification in Texts: A Survey",
+        "status": "accept"
+    },
+    {
+        "author": "Yifan Yang, Jiajun Zhou, Ngai Wong, Zheng Zhang:",
+        "title": "LoRETTA: Low-Rank Economic Tensor-Train Adaptation for Ultra-Low-Parameter Fine-Tuning of Large Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Chancharik Mitra, Abrar Anwar, Rodolfo Corona, Dan Klein, Trevor Darrell, Jesse Thomason:",
+        "title": "Which One? Leveraging Context Between Objects and Multiple Views for Language Grounding",
+        "status": "accept"
+    },
+    {
+        "author": "Ting-Yun Chang, Jesse Thomason, Robin Jia:",
+        "title": "Do Localization Methods Actually Localize Memorized Data in LLMs? A Tale of Two Benchmarks",
+        "status": "accept"
+    },
+    {
+        "author": "Tianrong Zhang, Zhaohan Xi, Ting Wang, Prasenjit Mitra, Jinghui Chen:",
+        "title": "PromptFix: Few-shot Backdoor Removal via Adversarial Prompt Tuning",
+        "status": "accept"
+    },
+    {
+        "author": "Zhixue Zhao, Nikolaos Aletras:",
+        "title": "Comparing Explanation Faithfulness between Multilingual and Monolingual Fine-tuned Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Shayne Longpre, Gregory Yauney, Emily Reif, Katherine Lee, Adam Roberts, Barret Zoph, Denny Zhou, Jason Wei, Kevin Robinson, David Mimno, Daphne Ippolito:",
+        "title": "A Pretrainer's Guide to Training Data: Measuring the Effects of Data Age, Domain Coverage, Quality, & Toxicity",
+        "status": "accept"
+    },
+    {
+        "author": "Jiashu Xu, Fei Wang, Mingyu Derek Ma, Pang Wei Koh, Chaowei Xiao, Muhao Chen:",
+        "title": "Instructional Fingerprinting of Large Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Alireza Salkhordeh Ziabari, Ali Omrani, Parsa Hejabi, Preni Golazizian, Brendan Kennedy, Payam Piray, Morteza Dehghani:",
+        "title": "Reinforced Multiple Instance Selection for Speaker Attribute Prediction",
+        "status": "accept"
+    },
+    {
+        "author": "Shikhar Tuli, Chi-Heng Lin, Yen-Chang Hsu, Niraj K. Jha, Yilin Shen, Hongxia Jin:",
+        "title": "DynaMo: Accelerating Language Model Inference with Dynamic Multi-Token Sampling",
+        "status": "accept"
+    },
+    {
+        "author": "Haochen Liu, Song Wang, Chen Chen, Jundong Li:",
+        "title": "Few-shot Knowledge Graph Relational Reasoning via Subgraph Adaptation",
+        "status": "accept"
+    },
+    {
+        "author": "Chen Ling, Xujiang Zhao, Xuchao Zhang, Wei Cheng, Yanchi Liu, Yiyou Sun, Mika Oishi, Takao Osaki, Katsushi Matsuda, Jie Ji, Guangji Bai, Liang Zhao, Haifeng Chen:",
+        "title": "Uncertainty Quantification for In-Context Learning of Large Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Zhilin Wang, Yi Dong, Jiaqi Zeng, Virginia Adams, Makesh Narsimhan Sreedhar, Daniel Egert, Olivier Delalleau, Jane Polak Scowcroft, Neel Kant, Aidan Swope, Oleksii Kuchaiev:",
+        "title": "HelpSteer: Multi-attribute Helpfulness Dataset for SteerLM",
+        "status": "accept"
+    },
+    {
+        "author": "Dawei Zhu, Sony Trenous, Xiaoyu Shen, Dietrich Klakow, Bill Byrne, Eva Hasler:",
+        "title": "A Preference-driven Paradigm for Enhanced Translation with Large Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Yusen Zhang, Nan Zhang, Yixin Liu, Alexander R. Fabbri, Junru Liu, Ryo Kamoi, Xiaoxin Lu, Caiming Xiong, Jieyu Zhao, Dragomir Radev, Kathleen R. McKeown, Rui Zhang:",
+        "title": "Fair Abstractive Summarization of Diverse Perspectives",
+        "status": "accept"
+    },
+    {
+        "author": "Anthony Meng Huat Tiong, Junqi Zhao, Boyang Li, Junnan Li, Steven C. H. Hoi, Caiming Xiong:",
+        "title": "What Are We Measuring When We Evaluate Large Vision-Language Models? An Analysis of Latent Factors and Biases",
+        "status": "accept"
+    },
+    {
+        "author": "Nicholas Lourie, Kyunghyun Cho, He He:",
+        "title": "Show Your Work with Confidence: Confidence Bands for Tuning Curves",
+        "status": "accept"
+    },
+    {
+        "author": "Vinodkumar Prabhakaran, Christopher Homan, Lora Aroyo, Aida Mostafazadeh Davani, Alicia Parrish, Alex S. Taylor, Mark Diaz, Ding Wang, Gregory Serapio-García:",
+        "title": "GRASP: A Disagreement Analysis Framework to Assess Group Associations in Perspectives",
+        "status": "accept"
+    },
+    {
+        "author": "Yidan Sun, Qin Chao, Boyang Li:",
+        "title": "Event Causality Is Key to Computational Story Understanding",
+        "status": "accept"
+    },
+    {
+        "author": "Yoichi Ishibashi, Sho Yokoi, Katsuhito Sudoh, Satoshi Nakamura:",
+        "title": "Subspace Representations for Soft Set Operations and Sentence Similarities",
+        "status": "accept"
+    },
+    {
+        "author": "Yuan Zhuang, Tianyu Jiang, Ellen Riloff:",
+        "title": "My Heart Skipped a Beat! Recognizing Expressions of Embodied Emotion in Natural Language",
+        "status": "accept"
+    },
+    {
+        "author": "Bill Cai, Clarence Boon Liang Ng, Daniel Liang, Shelvia Hotama:",
+        "title": "Low-Cost Generation and Evaluation of Dictionary Example Sentences",
+        "status": "accept"
+    },
+    {
+        "author": "Shuofei Qiao, Honghao Gui, Chengfei Lv, Qianghuai Jia, Huajun Chen, Ningyu Zhang:",
+        "title": "Making Language Models Better Tool Learners with Execution Feedback",
+        "status": "accept"
+    },
+    {
+        "author": "Jifan Chen, Grace Kim, Aniruddh Sriram, Greg Durrett, Eunsol Choi:",
+        "title": "Complex Claim Verification with Evidence Retrieved in the Wild",
+        "status": "accept"
+    },
+    {
+        "author": "Zehui Wu, Ziwei Gong, Jaywon Koo, Julia Hirschberg:",
+        "title": "Multimodal Multi-loss Fusion Network for Sentiment Analysis",
+        "status": "accept"
+    },
+    {
+        "author": "Yanchen Liu, Srishti Gautam, Jiaqi Ma, Himabindu Lakkaraju:",
+        "title": "Confronting LLMs with Traditional ML: Rethinking the Fairness of Large Language Models in Tabular Classifications",
+        "status": "accept"
+    },
+    {
+        "author": "Meghdut Sengupta, Roxanne El Baff, Milad Alshomary, Henning Wachsmuth:",
+        "title": "Analyzing the Use of Metaphors in News Editorials for Political Framing",
+        "status": "accept"
+    },
+    {
+        "author": "Thanh-Thien Le, Viet Dao, Linh Nguyen, Thi-Nhung Nguyen, Linh Ngo, Thien Nguyen:",
+        "title": "SharpSeq: Empowering Continual Event Detection through Sharpness-Aware Sequential-task Learning",
+        "status": "accept"
+    },
+    {
+        "author": "Stephan Linzbach, Dimitar Dimitrov, Laura Kallmeyer, Kilian Evang, Hajira Jabeen, Stefan Dietze:",
+        "title": "Dissecting Paraphrases: The Impact of Prompt Syntax and supplementary Information on Knowledge Retrieval from Pretrained Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Ava Spataru, Eric Hambro, Elena Voita, Nicola Cancedda:",
+        "title": "Know When To Stop: A Study of Semantic Drift in Text Generation",
+        "status": "accept"
+    },
+    {
+        "author": "Kraig Tou, Zijun Sun:",
+        "title": "Curriculum Masking in Vision-Language Pretraining to Maximize Cross Modal Interaction",
+        "status": "accept"
+    },
+    {
+        "author": "Cristina España-Bonet, Alberto Barrón-Cedeño:",
+        "title": "Elote, Choclo and Mazorca: on the Varieties of Spanish",
+        "status": "accept"
+    },
+    {
+        "author": "Chonghua Wang, Haodong Duan, Songyang Zhang, Dahua Lin, Kai Chen:",
+        "title": "Ada-LEval: Evaluating long-context LLMs with length-adaptable benchmarks",
+        "status": "accept"
+    },
+    {
+        "author": "Regina Ofori-Boateng, Magaly Aceves-Martins, Nirmalie Wiratunga, Carlos Francisco Moreno-García:",
+        "title": "A Zero-Shot Monolingual Dual Stage Information Retrieval System for Spanish Biomedical Systematic Literature Reviews",
+        "status": "accept"
+    },
+    {
+        "author": "Siyuan Huang, Yongping Xiong, Guibin Wu:",
+        "title": "LayoutPointer: A Spatial-Context Adaptive Pointer Network for Visual Information Extraction",
+        "status": "accept"
+    },
+    {
+        "author": "Domenic Rosati, Robie Gonzales, Jinkun Chen, Xuemin Yu, Yahya Kayani, Frank Rudzicz, Hassan Sajjad:",
+        "title": "Long-form evaluation of model editing",
+        "status": "accept"
+    },
+    {
+        "author": "Zhijing Jin, Yuen Chen, Fernando Gonzalez Adauto, Jiarui Liu, Jiayi Zhang, Julian Michael, Bernhard Schölkopf, Mona T. Diab:",
+        "title": "Analyzing the Role of Semantic Representations in the Era of Large Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Shuo Li, Sangdon Park, Insup Lee, Osbert Bastani:",
+        "title": "TRAQ: Trustworthy Retrieval Augmented Question Answering via Conformal Prediction",
+        "status": "accept"
+    },
+    {
+        "author": "Xinpei Zhao, Jingyuan Sun, Shaonan Wang, Jing Ye, Xiaohan Zhang, Chengqing Zong:",
+        "title": "MapGuide: A Simple yet Effective Method to Reconstruct Continuous Language from Brain Activities",
+        "status": "accept"
+    },
+    {
+        "author": "Monica Munnangi, Sergey Feldman, Byron C. Wallace, Silvio Amir, Tom Hope, Aakanksha Naik:",
+        "title": "On-the-fly Definition Augmentation of LLMs for Biomedical NER",
+        "status": "accept"
+    },
+    {
+        "author": "Bryan Li, Samar Haider, Chris Callison-Burch:",
+        "title": "This Land is Your, My Land: Evaluating Geopolitical Bias in Language Models through Territorial Disputes",
+        "status": "accept"
+    },
+    {
+        "author": "Xingwei Tan, Yuxiang Zhou, Gabriele Pergola, Yulan He:",
+        "title": "Set-Aligning Framework for Auto-Regressive Event Temporal Graph Generation",
+        "status": "accept"
+    },
+    {
+        "author": "Shujian Zhang, Lemeng Wu, Chengyue Gong, Xingchao Liu:",
+        "title": "LanguageFlow: Advancing Diffusion Language Generation with Probabilistic Flows",
+        "status": "accept"
+    },
+    {
+        "author": "Nilay Patel, Shivashankar Subramanian, Siddhant Garg, Pratyay Banerjee, Amita Misra:",
+        "title": "Towards Improved Multi-Source Attribution for Long-Form Answer Generation",
+        "status": "accept"
+    },
+    {
+        "author": "Aldo G. Carranza, Rezsa Farahani, Natalia Ponomareva, Alexey Kurakin, Matthew Jagielski, Milad Nasr:",
+        "title": "Synthetic Query Generation for Privacy-Preserving Deep Retrieval Systems using Differentially Private Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Abhijnan Nath, Shadi Manafi Avari, Avyakta Chelle, Nikhil Krishnaswamy:",
+        "title": "Okay, Let's Do This! Modeling Event Coreference with Generated Rationales and Knowledge Distillation",
+        "status": "accept"
+    },
+    {
+        "author": "Garima Agrawal, Tharindu Kumarage, Zeyad Alghamdi, Huan Liu:",
+        "title": "Can Knowledge Graphs Reduce Hallucinations in LLMs? : A Survey",
+        "status": "accept"
+    },
+    {
+        "author": "Brian D. Ondov, Kush Attal, Dina Demner-Fushman:",
+        "title": "Pedagogically Aligned Objectives Create Reliable Automatic Cloze Tests",
+        "status": "accept"
+    },
+    {
+        "author": "Kazuma Hashimoto, Karthik Raman, Michael Bendersky:",
+        "title": "Take One Step at a Time to Know Incremental Utility of Demonstration: An Analysis on Reranking for Few-Shot In-Context Learning",
+        "status": "accept"
+    },
+    {
+        "author": "Chi Han, Qifan Wang, Hao Peng, Wenhan Xiong, Yu Chen, Heng Ji, Sinong Wang:",
+        "title": "LM-Infinite: Zero-Shot Extreme Length Generalization for Large Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Albert Yu Sun, Varun Nair, Elliot Schumacher, Anitha Kannan:",
+        "title": "CONSCENDI: A Contrastive and Scenario-Guided Distillation Approach to Guardrail Models for Virtual Assistants",
+        "status": "accept"
+    },
+    {
+        "author": "KiYoon Yoo, Wonhyuk Ahn, Nojun Kwak:",
+        "title": "Advancing Beyond Identification: Multi-bit Watermark for Large Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Tingxuan Chen, Jun Long, Liu Yang, Zidong Wang, Yongheng Wang, Xiongnan Jin:",
+        "title": "HTCCN: Temporal Causal Convolutional Networks with Hawkes Process for Extrapolation Reasoning in Temporal Knowledge Graphs",
+        "status": "accept"
+    },
+    {
+        "author": "Abe Bohan Hou, Jingyu Zhang, Tianxing He, Yichen Wang, Yung-Sung Chuang, Hongwei Wang, Lingfeng Shen, Benjamin Van Durme, Daniel Khashabi, Yulia Tsvetkov:",
+        "title": "SemStamp: A Semantic Watermark with Paraphrastic Robustness for Text Generation",
+        "status": "accept"
+    },
+    {
+        "author": "Iffat Maab, Edison Marrese-Taylor, Sebastian Padó, Yutaka Matsuo:",
+        "title": "Media Bias Detection Across Families of Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Aobo Kong, Shiwan Zhao, Hao Chen, Qicheng Li, Yong Qin, Ruiqi Sun, Xin Zhou, Enzhi Wang, Xiaohang Dong:",
+        "title": "Better Zero-Shot Reasoning with Role-Play Prompting",
+        "status": "accept"
+    },
+    {
+        "author": "Fenghua Cheng, Xue Li, Zi Huang, Jinxiang Wang, Sen Wang:",
+        "title": "Event-Content-Oriented Dialogue Generation in Short Video",
+        "status": "accept"
+    },
+    {
+        "author": "Yongrui Chen, Haiyun Jiang, Xinting Huang, Shuming Shi, Guilin Qi:",
+        "title": "DoG-Instruct: Towards Premium Instruction-Tuning Data via Text-Grounded Instruction Wrapping",
+        "status": "accept"
+    },
+    {
+        "author": "T. Y. S. S. Santosh, Vatsal Venkatkrishna, Saptarshi Ghosh, Matthias Grabmair:",
+        "title": "Beyond Borders: Investigating Cross-Jurisdiction Transfer in Legal Case Summarization",
+        "status": "accept"
+    },
+    {
+        "author": "Qifan Lu, Bhaskar Ramasubramanian, Radha Poovendran:",
+        "title": "EDC: Effective and Efficient Dialog Comprehension For Dialog State Tracking",
+        "status": "accept"
+    },
+    {
+        "author": "Sara Abedalmonem Mohammad Shatnawi, Sawsan Alqahtani, Hanan Aldarmaki:",
+        "title": "Automatic Restoration of Diacritics for Speech Data Sets",
+        "status": "accept"
+    },
+    {
+        "author": "Maite Heredia, Julen Etxaniz, Muitze Zulaika, Xabier Saralegi, Jeremy Barnes, Aitor Soroa:",
+        "title": "XNLIeu: a dataset for cross-lingual NLI in Basque",
+        "status": "accept"
+    },
+    {
+        "author": "Huazheng Wang, Jinming Wu, Haifeng Sun, Zixuan Xia, Daixuan Cheng, Jingyu Wang, Qi Qi, Jianxin Liao:",
+        "title": "MDR: Model-Specific Demonstration Retrieval at Inference Time for In-Context Learning",
+        "status": "accept"
+    },
+    {
+        "author": "Nayeon Lee, Chani Jung, Junho Myung, Jiho Jin, José Camacho-Collados, Juho Kim, Alice Oh:",
+        "title": "Exploring Cross-Cultural Differences in English Hate Speech Annotations: From Dataset Construction to Analysis",
+        "status": "accept"
+    },
+    {
+        "author": "Zheng Zhao, Emilio Monti, Jens Lehmann, Haytham Assem:",
+        "title": "Enhancing Contextual Understanding in Large Language Models through Contrastive Decoding",
+        "status": "accept"
+    },
+    {
+        "author": "Hyewon Jang, Diego Frassinelli:",
+        "title": "Generalizable Sarcasm Detection is Just Around the Corner, of Course! 4238-424",
+        "status": "accept"
+    },
+    {
+        "author": "Gaofei Shen, Michaela Watkins, Afra Alishahi, Arianna Bisazza, Grzegorz Chrupala:",
+        "title": "Encoding of lexical tone in self-supervised models of spoken language",
+        "status": "accept"
+    },
+    {
+        "author": "Francesco Periti, Nina Tahmasebi:",
+        "title": "A Systematic Comparison of Contextualized Word Embeddings for Lexical Semantic Change",
+        "status": "accept"
+    },
+    {
+        "author": "Xiancai Xu, Jia-Dong Zhang, Lei Xiong, Zhishang Liu:",
+        "title": "iACOS: Advancing Implicit Sentiment Extraction with Informative and Adaptive Negative Examples",
+        "status": "accept"
+    },
+    {
+        "author": "Joonwon Jang, Sanghwan Jang, Wonbin Kweon, Minjin Jeon, Hwanjo Yu:",
+        "title": "Rectifying Demonstration Shortcut in In-Context Learning",
+        "status": "accept"
+    },
+    {
+        "author": "Stephen Mayhew, Terra Blevins, Shuheng Liu, Marek Suppa, Hila Gonen, Joseph Marvin Imperial, Börje Karlsson, Peiqin Lin, Nikola Ljubesic, Lester James V. Miranda, Barbara Plank, Arij Riabi, Yuval Pinter:",
+        "title": "Universal NER: A Gold-Standard Multilingual Named Entity Recognition Benchmark",
+        "status": "accept"
+    },
+    {
+        "author": "Sunjae Kwon, Xun Wang, Weisong Liu, Emily Druhl, Minhee L. Sung, Joel I. Reisman, Wenjun Li, Robert D. Kerns, William Becker, Hong Yu:",
+        "title": "ODD: A Benchmark Dataset for the Natural Language Processing Based Opioid Related Aberrant Behavior Detection",
+        "status": "accept"
+    },
+    {
+        "author": "Xingmeng Zhao, Ali Niazi, Anthony Rios:",
+        "title": "A Comprehensive Study of Gender Bias in Chemical Named Entity Recognition Models",
+        "status": "accept"
+    },
+    {
+        "author": "Paiheng Xu, Jing Liu, Nathan Jones, Julie Cohen, Wei Ai:",
+        "title": "The Promises and Pitfalls of Using Language Models to Measure Instruction Quality in Education",
+        "status": "accept"
+    },
+    {
+        "author": "James Flemings, Meisam Razaviyayn, Murali Annavaram:",
+        "title": "Differentially Private Next-Token Prediction of Large Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Janis Goldzycher, Paul Röttger, Gerold Schneider:",
+        "title": "Improving Adversarial Data Collection by Supporting Annotators: Lessons from GAHD, a German Hate Speech Dataset",
+        "status": "accept"
+    },
+    {
+        "author": "Cícero Nogueira dos Santos, James Lee-Thorp, Isaac Noble, Chung-Ching Chang, David C. Uthus:",
+        "title": "Memory Augmented Language Models through Mixture of Word Experts",
+        "status": "accept"
+    },
+    {
+        "author": "Jaehun Jung, Peter West, Liwei Jiang, Faeze Brahman, Ximing Lu, Jillian Fisher, Taylor Sorensen, Yejin Choi:",
+        "title": "Impossible Distillation for Paraphrasing and Summarization: How to Make High-quality Lemonade out of Small, Low-quality Model",
+        "status": "accept"
+    },
+    {
+        "author": "Liyan Tang, Igor Shalyminov, Amy Wing-mei Wong, Jon Burnsky, Jake W. Vincent, Yuan Yang, Siffi Singh, Song Feng, Hwanjun Song, Hang Su, Lijia Sun, Yi Zhang, Saab Mansour, Kathleen McKeown:",
+        "title": "TofuEval: Evaluating Hallucinations of LLMs on Topic-Focused Dialogue Summarization",
+        "status": "accept"
+    },
+    {
+        "author": "Xinliang Frederick Zhang, Winston Wu, Nicholas Beauchamp, Lu Wang:",
+        "title": "MOKA: Moral Knowledge Augmentation for Moral Event Extraction",
+        "status": "accept"
+    },
+    {
+        "author": "Paulo Cavalin, Pedro Henrique Domingues, Claudio S. Pinhanez, Julio Nogima:",
+        "title": "Fixing Rogue Memorization in Many-to-One Multilingual Translators of Extremely-Low-Resource Languages by Rephrasing Training Samples",
+        "status": "accept"
+    },
+    {
+        "author": "Jun Wang, Qiongkai Xu, Xuanli He, Benjamin I. P. Rubinstein, Trevor Cohn:",
+        "title": "Backdoor Attacks on Multilingual Machine Translation",
+        "status": "accept"
+    },
+    {
+        "author": "Yue Guo, Joseph Chee Chang, Maria Antoniak, Erin Bransom, Trevor Cohen, Lucy Lu Wang, Tal August:",
+        "title": "Personalized Jargon Identification for Enhanced Interdisciplinary Communication",
+        "status": "accept"
+    },
+    {
+        "author": "Kexin Huang, Xiangyang Liu, Qianyu Guo, Tianxiang Sun, Jiawei Sun, Yaru Wang, Zeyang Zhou, Yixu Wang, Yan Teng, Xipeng Qiu, Yingchun Wang, Dahua Lin:",
+        "title": "Flames: Benchmarking Value Alignment of LLMs in Chinese",
+        "status": "accept"
+    },
+    {
+        "author": "Mingyu Derek Ma, Jiun-Yu Kao, Arpit Gupta, Yu-Hsiang Lin, Wenbo Zhao, Tagyoung Chung, Wei Wang, Kai-Wei Chang, Nanyun Peng:",
+        "title": "Mitigating Bias for Question Answering Models by Tracking Bias Influence",
+        "status": "accept"
+    },
+    {
+        "author": "Seoyeon Kim, Minguk Kang, Dongwon Kim, Jaesik Park, Suha Kwak:",
+        "title": "Extending CLIP's Image-Text Alignment to Referring Image Segmentation",
+        "status": "accept"
+    },
+    {
+        "author": "Yu-Xiang Lin, Wei-Yun Ma:",
+        "title": "Generating Attractive and Authentic Copywriting from Customer Reviews",
+        "status": "accept"
+    },
+    {
+        "author": "Wenhan Xiong, Jingyu Liu, Igor Molybog, Hejia Zhang, Prajjwal Bhargava, Rui Hou, Louis Martin, Rashi Rungta, Karthik Abinav Sankararaman, Barlas Oguz, Madian Khabsa, Han Fang, Yashar Mehdad, Sharan Narang, Kshitiz Malik, Angela Fan, Shruti Bhosale, Sergey Edunov, Mike Lewis, Sinong Wang, Hao Ma:",
+        "title": "Effective Long-Context Scaling of Foundation Models",
+        "status": "accept"
+    },
+    {
+        "author": "Zhujin Gao, Junliang Guo, Xu Tan, Yongxin Zhu, Fang Zhang, Jiang Bian, Linli Xu:",
+        "title": "Empowering Diffusion Models on the Embedding Space for Text Generation",
+        "status": "accept"
+    },
+    {
+        "author": "Yu Xia, Tong Yu, Zhankui He, Handong Zhao, Julian J. McAuley, Shuai Li:",
+        "title": "Aligning as Debiasing: Causality-Aware Alignment via Reinforcement Learning with Interventional Feedback",
+        "status": "accept"
+    },
+    {
+        "author": "Yixu Wang, Yan Teng, Kexin Huang, Chengqi Lyu, Songyang Zhang, Wenwei Zhang, Xingjun Ma, Yu-Gang Jiang, Yu Qiao, Yingchun Wang:",
+        "title": "Fake Alignment: Are LLMs Really Aligned Well? 4696-471",
+        "status": "accept"
+    },
+    {
+        "author": "Zhiming Mao, Haoli Bai, Lu Hou, Lifeng Shang, Xin Jiang, Qun Liu, Kam-Fai Wong:",
+        "title": "Visually Guided Generative Text-Layout Pre-training for Document Intelligence",
+        "status": "accept"
+    },
+    {
+        "author": "He Zhu, Junran Wu, Ruomei Liu, Yue Hou, Ze Yuan, Shangzhe Li, Yicheng Pan, Ke Xu:",
+        "title": "HILL: Hierarchy-aware Information Lossless Contrastive Learning for Hierarchical Text Classification",
+        "status": "accept"
+    },
+    {
+        "author": "Rao Ma, Adian Liusie, Mark J. F. Gales, Kate M. Knill:",
+        "title": "Investigating the Emergent Audio Classification Ability of ASR Foundation Models",
+        "status": "accept"
+    },
+    {
+        "author": "Aaron Mueller, Albert Webson, Jackson Petty, Tal Linzen:",
+        "title": "In-context Learning Generalizes, But Not Always Robustly: The Case of Syntax",
+        "status": "accept"
+    },
+    {
+        "author": "Yongqi Wang, Ruofan Hu, Rongjie Huang, Zhiqing Hong, Ruiqi Li, Wenrui Liu, Fuming You, Tao Jin, Zhou Zhao:",
+        "title": "Prompt-Singer: Controllable Singing-Voice-Synthesis with Natural Language Prompt",
+        "status": "accept"
+    },
+    {
+        "author": "Dena F. Mujtaba, Nihar R. Mahapatra, Megan Arney, J. Scott Yaruss, Hope Gerlach-Houck, Caryn Herring, Jia Bin:",
+        "title": "Lost in Transcription: Identifying and Quantifying the Accuracy Biases of Automatic Speech Recognition Systems Against Disfluent Speech",
+        "status": "accept"
+    },
+    {
+        "author": "Chadi Helwe, Tom Calamai, Pierre-Henri Paris, Chloé Clavel, Fabian M. Suchanek:",
+        "title": "MAFALDA: A Benchmark and Comprehensive Study of Fallacy Detection and Classification",
+        "status": "accept"
+    },
+    {
+        "author": "Lihua Qian, Mingxuan Wang, Yang Liu, Hao Zhou:",
+        "title": "Diffusion Glancing Transformer for Parallel Sequence-to-Sequence Learning",
+        "status": "accept"
+    },
+    {
+        "author": "Kellen Cheng, Suma Bhat:",
+        "title": "No Context Needed: Contextual Quandary In Idiomatic Reasoning With Pre-Trained Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Xindi Wang, Robert E. Mercer, Frank Rudzicz:",
+        "title": "Multi-stage Retrieve and Re-rank Model for Automatic Medical Coding Recommendation",
+        "status": "accept"
+    },
+    {
+        "author": "Anemily Machina, Robert E. Mercer:",
+        "title": "Anisotropy is Not Inherent to Transformers",
+        "status": "accept"
+    },
+    {
+        "author": "Parker Riley, Daniel Deutsch, George F. Foster, Viresh Ratnakar, Ali Dabirmoghaddam, Markus Freitag:",
+        "title": "Finding Replicable Human Evaluations via Stable Ranking Probability",
+        "status": "accept"
+    },
+    {
+        "author": "Yuanpu Cao, Bochuan Cao, Jinghui Chen:",
+        "title": "Stealthy and Persistent Unalignment on Large Language Models via Backdoor Injections",
+        "status": "accept"
+    },
+    {
+        "author": "Sai Ashish Somayajula, Youwei Liang, Li Zhang, Abhishek Singh, Pengtao Xie:",
+        "title": "Generalizable and Stable Finetuning of Pretrained Language Models on Low-Resource Texts",
+        "status": "accept"
+    },
+    {
+        "author": "Daeun Lee, Hyolim Jeon, Sejung Son, Chaewon Park, Ji Hyun An, Seungbae Kim, Jinyoung Han:",
+        "title": "Detecting Bipolar Disorder from Misdiagnosed Major Depressive Disorder with Mood-Aware Multi-Task Learning",
+        "status": "accept"
+    },
+    {
+        "author": "Ben Bogin, Shivanshu Gupta, Peter Clark, Ashish Sabharwal:",
+        "title": "Leveraging Code to Improve In-Context Learning for Semantic Parsing",
+        "status": "accept"
+    },
+    {
+        "author": "Micheal Abaho, Danushka Bollegala, Gary Leeming, Dan W. Joyce, Iain E. Buchan:",
+        "title": "Improving Pre-trained Language Model Sensitivity via Mask Specific losses: A case study on Biomedical NER",
+        "status": "accept"
+    },
+    {
+        "author": "Jack Merullo, Carsten Eickhoff, Ellie Pavlick:",
+        "title": "Language Models Implement Simple Word2Vec-style Vector Arithmetic",
+        "status": "accept"
+    },
+    {
+        "author": "Ruiyi Zhang, Rushi Qiang, Sai Ashish Somayajula, Pengtao Xie:",
+        "title": "AutoLoRA: Automatically Tuning Matrix Ranks in Low-Rank Adaptation Based on Meta Learning",
+        "status": "accept"
+    },
+    {
+        "author": "Haotian Xia, Zhengbang Yang, Yuqing Wang, Rhys Tracy, Yun Zhao, Dongdong Huang, Zezhi Chen, Yan Zhu, Yuan-Fang Wang, Weining Shen:",
+        "title": "SportQA: A Benchmark for Sports Understanding in Large Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Thinh Truong, Yulia Otmakhova, Karin Verspoor, Trevor Cohn, Timothy Baldwin:",
+        "title": "Revisiting subword tokenization: A case study on affixal negation in large language models",
+        "status": "accept"
+    },
+    {
+        "author": "Daniel Cabrera Lozoya, Alejandro Berazaluce, Juan Perches, Eloy Lúa, Mike Conway, Simon D'Alfonso:",
+        "title": "Generating Mental Health Transcripts with SAPE (Spanish Adaptive Prompt Engineering)",
+        "status": "accept"
+    },
+    {
+        "author": "Patrick Foley, Matthew Wiesner, Bismarck Odoom, Leibny Paola García-Perera, Kenton Murray, Philipp Koehn:",
+        "title": "Where are you from? Geolocating Speech and Applications to Language Identification",
+        "status": "accept"
+    },
+    {
+        "author": "Xiao Yu, Baolin Peng, Michel Galley, Jianfeng Gao, Zhou Yu:",
+        "title": "Teaching Language Models to Self-Improve through Interactive Demonstrations",
+        "status": "accept"
+    },
+    {
+        "author": "Hossein Aboutalebi, Hwanjun Song, Yusheng Xie, Arshit Gupta, Lijia Sun, Hang Su, Igor Shalyminov, Nikolaos Pappas, Siffi Singh, Saab Mansour:",
+        "title": "MAGID: An Automated Pipeline for Generating Synthetic Multi-modal Datasets",
+        "status": "accept"
+    },
+    {
+        "author": "Ke Lin, Yiyang Luo, Zijian Zhang, Ping Luo:",
+        "title": "Zero-shot Generative Linguistic Steganography",
+        "status": "accept"
+    },
+    {
+        "author": "Cameron R. Jones, Ben Bergen:",
+        "title": "Does GPT-4 pass the Turing test? 5183-521",
+        "status": "accept"
+    },
+    {
+        "author": "Yuanyuan Lei, Kaiqiang Song, Sangwoo Cho, Xiaoyang Wang, Ruihong Huang, Dong Yu:",
+        "title": "Polarity Calibration for Opinion Summarization",
+        "status": "accept"
+    },
+    {
+        "author": "Yuanyuan Lei, Ruihong Huang:",
+        "title": "Sentence-level Media Bias Analysis with Event Relation Graph",
+        "status": "accept"
+    },
+    {
+        "author": "Yuanyuan Lei, Md Messal Monem Miah, Ayesha Qamar, Sai Ramana Reddy, Jonathan Tong, Haotian Xu, Ruihong Huang:",
+        "title": "EMONA: Event-level Moral Opinions in News Articles",
+        "status": "accept"
+    },
+    {
+        "author": "Beibei Gao, Yangsen Zhang, Ga Xiang, Yushan Jiang:",
+        "title": "DLM: A Decoupled Learning Model for Long-tailed Polyphone Disambiguation in Mandarin",
+        "status": "accept"
+    },
+    {
+        "author": "Bangzhao Shu, Lechen Zhang, Minje Choi, Lavinia Dunagan, Lajanugen Logeswaran, Moontae Lee, Dallas Card, David Jurgens:",
+        "title": "You don't need a personality test to know these models are unreliable: Assessing the Reliability of Large Language Models on Psychometric Instruments",
+        "status": "accept"
+    },
+    {
+        "author": "Xiao Liu, Yansong Feng, Kai-Wei Chang:",
+        "title": "CASA: Causality-driven Argument Sufficiency Assessment",
+        "status": "accept"
+    },
+    {
+        "author": "Yufei Tian, Abhilasha Ravichander, Lianhui Qin, Ronan Le Bras, Raja Marjieh, Nanyun Peng, Yejin Choi, Thomas L. Griffiths, Faeze Brahman:",
+        "title": "MacGyver: Are Large Language Models Creative Problem Solvers? 5303-532",
+        "status": "accept"
+    },
+    {
+        "author": "Benedikt Ebing, Goran Glavas:",
+        "title": "To Translate or Not to Translate: A Systematic Investigation of Translation-Based Cross-Lingual Transfer to Low-Resource Languages",
+        "status": "accept"
+    },
+    {
+        "author": "Rui Wang, Hongru Wang, Fei Mi, Boyang Xue, Yi Chen, Kam-Fai Wong, Ruifeng Xu:",
+        "title": "Enhancing Large Language Models Against Inductive Instructions with Dual-critique Prompting",
+        "status": "accept"
+    },
+    {
+        "author": "Urchade Zaratiana, Nadi Tomeh, Pierre Holat, Thierry Charnois:",
+        "title": "GLiNER: Generalist Model for Named Entity Recognition using Bidirectional Transformer",
+        "status": "accept"
+    },
+    {
+        "author": "Paul Röttger, Hannah Kirk, Bertie Vidgen, Giuseppe Attanasio, Federico Bianchi, Dirk Hovy:",
+        "title": "XSTest: A Test Suite for Identifying Exaggerated Safety Behaviours in Large Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Yujin Kim, Jaehong Yoon, Seonghyeon Ye, Sangmin Bae, Namgyu Ho, Sung Ju Hwang, Se-Young Yun:",
+        "title": "Carpe diem: On the Evaluation of World Knowledge in Lifelong Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Minwoo Lee, Hyukhun Koh, Minsung Kim, Kyomin Jung:",
+        "title": "Fine-grained Gender Control in Machine Translation with Large Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Zefan Cai, Xin Zheng, Tianyu Liu, Haoran Meng, Jiaqi Han, Gang Yuan, Binghuai Lin, Baobao Chang, Yunbo Cao:",
+        "title": "DialogVCS: Robust Natural Language Understanding in Dialogue System Upgrade",
+        "status": "accept"
+    },
+    {
+        "author": "Xiaonan Li, Changtai Zhu, Linyang Li, Zhangyue Yin, Tianxiang Sun, Xipeng Qiu:",
+        "title": "LLatrieval: LLM-Verified Retrieval for Verifiable Generation",
+        "status": "accept"
+    },
+    {
+        "author": "Siyuan Chen, Meilin Wang, Minghao Lv, Zhiling Zhang, Juqianqian Juqianqian, Dejiyangla Dejiyangla, Yujia Peng, Kenny Q. Zhu, Mengyue Wu:",
+        "title": "Mapping Long-term Causalities in Psychiatric Symptomatology and Life Events from Social Media",
+        "status": "accept"
+    },
+    {
+        "author": "Averi Nowak, Francesco Piccinno, Yasemin Altun:",
+        "title": "Multimodal Chart Retrieval: A Comparison of Text, Table and Image Based Approaches",
+        "status": "accept"
+    },
+    {
+        "author": "Seiji Maekawa, Hayate Iso, Sairam Gurajada, Nikita Bhutani:",
+        "title": "Retrieval Helps or Hurts? A Deeper Dive into the Efficacy of Retrieval Augmentation to Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Yassir Fathullah, Chunyang Wu, Egor Lakomkin, Ke Li, Junteng Jia, Yuan Shangguan, Jay Mahadeokar, Ozlem Kalinli, Christian Fuegen, Mike Seltzer:",
+        "title": "AudioChatLlama: Towards General-Purpose Speech Abilities for LLMs",
+        "status": "accept"
+    },
+    {
+        "author": "Ashim Gupta, Rishanth Rajendhran, Nathan Stringham, Vivek Srikumar, Ana Marasovic:",
+        "title": "Whispers of Doubt Amidst Echoes of Triumph in NLP Robustness",
+        "status": "accept"
+    },
+    {
+        "author": "Semih Yagcioglu, Osman Batur Ince, Aykut Erdem, Erkut Erdem, Desmond Elliott, Deniz Yuret:",
+        "title": "Sequential Compositional Generalization in Multimodal Models",
+        "status": "accept"
+    },
+    {
+        "author": "Md Nayem Uddin, Enfa Rose George, Eduardo Blanco, Steven R. Corman:",
+        "title": "Generating Uncontextualized and Contextualized Questions for Document-Level Event Argument Extraction",
+        "status": "accept"
+    },
+    {
+        "author": "Zhenrui Yue, Huimin Zeng, Yimeng Lu, Lanyu Shang, Yang Zhang, Dong Wang:",
+        "title": "Evidence-Driven Retrieval Augmented Response Generation for Online Misinformation",
+        "status": "accept"
+    },
+    {
+        "author": "Huimin Zeng, Zhenrui Yue, Dong Wang:",
+        "title": "Open-Vocabulary Federated Learning with Multimodal Prototyping",
+        "status": "accept"
+    },
+    {
+        "author": "Xiao Li, Yong Jiang, Shen Huang, Pengjun Xie, Gong Cheng, Fei Huang:",
+        "title": "Exploring Key Point Analysis with Pairwise Generation and Graph Partitioning",
+        "status": "accept"
+    },
+    {
+        "author": "Siqi Shen, Lajanugen Logeswaran, Moontae Lee, Honglak Lee, Soujanya Poria, Rada Mihalcea:",
+        "title": "Understanding the Capabilities and Limitations of Large Language Models for Cultural Commonsense",
+        "status": "accept"
+    },
+    {
+        "author": "Lajanugen Logeswaran, Sungryull Sohn, Yiwei Lyu, Anthony Z. Liu, Dong-Ki Kim, Dongsub Shim, Moontae Lee, Honglak Lee:",
+        "title": "Code Models are Zero-shot Precondition Reasoners",
+        "status": "accept"
+    },
+    {
+        "author": "Suyoung Kim, Jiyeon Hwang, Ho-Young Jung:",
+        "title": "Contrastive and Consistency Learning for Neural Noisy-Channel Model in Spoken Language Understanding",
+        "status": "accept"
+    },
+    {
+        "author": "Yuan Wang, Xuyang Wu, Hsin-Tai Wu, Zhiqiang Tao, Yi Fang:",
+        "title": "Do Large Language Models Rank Fairly? An Empirical Study on the Fairness of LLMs as Rankers",
+        "status": "accept"
+    },
+    {
+        "author": "Md Mahadi Hasan Nahid, Davood Rafiei:",
+        "title": "TabSQLify: Enhancing Reasoning Capabilities of LLMs Through Table Decomposition",
+        "status": "accept"
+    },
+    {
+        "author": "Tanmay Parekh, I-Hung Hsu, Kuan-Hao Huang, Kai-Wei Chang, Nanyun Peng:",
+        "title": "Contextual Label Projection for Cross-Lingual Structured Prediction",
+        "status": "accept"
+    },
+    {
+        "author": "Tanmay Parekh, Anh Mac, Jiarui Yu, Yuxuan Dong, Syed Shahriar, Bonnie Liu, Eric Yang, Kuan-Hao Huang, Wei Wang, Nanyun Peng, Kai-Wei Chang:",
+        "title": "Event Detection from Social Media for Epidemic Prediction",
+        "status": "accept"
+    },
+    {
+        "author": "Song Jiang, Zahra Shakeri, Aaron Chan, Maziar Sanjabi, Hamed Firooz, Yinglong Xia, Bugra Akyildiz, Yizhou Sun, Jinchao Li, Qifan Wang, Asli Celikyilmaz:",
+        "title": "RESPROMPT: Residual Connection Prompting Advances Multi-Step Reasoning in Large Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Thomas Bauwens, Pieter Delobelle:",
+        "title": "BPE-knockout: Pruning Pre-existing BPE Tokenisers with Backwards-compatible Morphological Semi-supervision",
+        "status": "accept"
+    },
+    {
+        "author": "Sheng Lu, Hendrik Schuff, Iryna Gurevych:",
+        "title": "How are Prompts Different in Terms of Sensitivity? 5833-585",
+        "status": "accept"
+    },
+    {
+        "author": "Guanghui Ye, Huan Zhao, Zixing Zhang, Xupeng Zha, Zhihua Jiang:",
+        "title": "LSTDial: Enhancing Dialogue Generation via Long- and Short-Term Measurement Feedback",
+        "status": "accept"
+    },
+    {
+        "author": "Kumar Shridhar, Koustuv Sinha, Andrew Cohen, Tianlu Wang, Ping Yu, Ramakanth Pasunuru, Mrinmaya Sachan, Jason Weston, Asli Celikyilmaz:",
+        "title": "The ART of LLM Refinement: Ask, Refine, and Trust",
+        "status": "accept"
+    },
+    {
+        "author": "Sungjun Lim, Yoonjung Choi, Sangha Kim:",
+        "title": "Modularized Multilingual NMT with Fine-grained Interlingua",
+        "status": "accept"
+    },
+    {
+        "author": "Oren Sultan, Yonatan Bitton, Ron Yosef, Dafna Shahaf:",
+        "title": "ParallelPARC: A Scalable Pipeline for Generating Natural-Language Analogies",
+        "status": "accept"
+    },
+    {
+        "author": "Shuyang Cao, Lu Wang:",
+        "title": "AWESOME: GPU Memory-constrained Long Document Summarization using Memory Mechanism and Global Salient Content",
+        "status": "accept"
+    },
+    {
+        "author": "Kristina Gligoric, Myra Cheng, Lucia Zheng, Esin Durmus, Dan Jurafsky:",
+        "title": "NLP Systems That Can't Tell Use from Mention Censor Counterspeech, but Teaching the Distinction Helps",
+        "status": "accept"
+    },
+    {
+        "author": "Enze Shi, Lei Ding, Linglong Kong, Bei Jiang:",
+        "title": "Debiasing with Sufficient Projection: A General Theoretical Framework for Vector Representations",
+        "status": "accept"
+    },
+    {
+        "author": "Jianfeng He, Hang Su, Jason Cai, Igor Shalyminov, Hwanjun Song, Saab Mansour:",
+        "title": "Semi-Supervised Dialogue Abstractive Summarization via High-Quality Pseudolabel Selection",
+        "status": "accept"
+    },
+    {
+        "author": "Jiayi Wang, David Ifeoluwa Adelani, Sweta Agrawal, Marek Masiak, Ricardo Rei, Eleftheria Briakou, Marine Carpuat, Xuanli He, Sofia Bourhim, Andiswa Bukula, Muhidin Mohamed, Temitayo Olatoye, Tosin P. Adewumi, Hamam Mokayed, Christine Mwase, Wangui Kimotho, Foutse Yuehgoh, Anuoluwapo Aremu, Jessica Ojo, Shamsuddeen Hassan Muhammad, Salomey Osei, Abdul-Hakeem Omotayo, Chiamaka Chukwuneke, Perez Ogayo, Oumaima Hourrane, Salma El Anigri, Lolwethu Ndolela, Thabiso Mangwana, Shafie Abdi Mohamed, Ayinde Hassan, Oluwabusayo Olufunke Awoyomi, Lama Alkhaled, Sana Sabah Al-Azzawi, Naome A. Etori, Millicent Ochieng, Clemencia Siro, Njoroge Kiragu, Eric Muchiri, Wangari Kimotho, Sakayo Toadoum Sari, Lyse Naomi Wamba Momo, Daud Abolade, Simbiat Ajao, Iyanuoluwa Shode, Ricky Macharm, Ruqayya Nasir Iro, Saheed S. Abdullahi, Stephen E. Moore, Bernard Opoku, Zainab Akinjobi, Afolabi Abeeb, Nnaemeka C. Obiefuna, Onyekachi Raphael Ogbu, Sam Ochieng', Verrah Otiende, Chinedu E. Mbonu, Yao Lu, Pontus Stenetorp:",
+        "title": "AfriMTE and AfriCOMET: Enhancing COMET to Embrace Under-resourced African Languages",
+        "status": "accept"
+    },
+    {
+        "author": "Tianshu Zhang, Xiang Yue, Yifei Li, Huan Sun:",
+        "title": "TableLlama: Towards Open Large Generalist Models for Tables",
+        "status": "accept"
+    },
+    {
+        "author": "HyunJin Kim, Young Jin Kim, JinYeong Bak:",
+        "title": "PEMA: An Offsite-Tunable Plug-in External Memory Adaptation for Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Jun Yan, Vikas Yadav, Shiyang Li, Lichang Chen, Zheng Tang, Hai Wang, Vijay Srinivasan, Xiang Ren, Hongxia Jin:",
+        "title": "Backdooring Instruction-Tuned Large Language Models with Virtual Prompt Injection",
+        "status": "accept"
+    },
+    {
+        "author": "Shuaijie She, Shujian Huang, Xingyun Wang, Yanke Zhou, Jiajun Chen:",
+        "title": "Exploring the Factual Consistency in Dialogue Comprehension of Large Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Changjiang Gao, Hongda Hu, Peng Hu, Jiajun Chen, Jixing Li, Shujian Huang:",
+        "title": "Multilingual Pretraining and Instruction Tuning Improve Cross-Lingual Knowledge Alignment, But Only Shallowly",
+        "status": "accept"
+    },
+    {
+        "author": "Hanlin Zhang, Yifan Zhang, Yaodong Yu, Dhruv Madeka, Dean P. Foster, Eric P. Xing, Himabindu Lakkaraju, Sham M. Kakade:",
+        "title": "A Study on the Calibration of In-context Learning",
+        "status": "accept"
+    },
+    {
+        "author": "Jiao Ou, Junda Lu, Che Liu, Yihong Tang, Fuzheng Zhang, Di Zhang, Kun Gai:",
+        "title": "DialogBench: Evaluating LLMs as Human-like Dialogue Systems",
+        "status": "accept"
+    },
+    {
+        "author": "Suman Adhya, Debarshi Kumar Sanyal:",
+        "title": "GINopic: Topic Modeling with Graph Isomorphism Network",
+        "status": "accept"
+    },
+    {
+        "author": "Xidong Wang, Guiming Chen, Dingjie Song, Zhiyi Zhang, Zhihong Chen, Qingying Xiao, Junying Chen, Feng Jiang, Jianquan Li, Xiang Wan, Benyou Wang, Haizhou Li:",
+        "title": "CMB: A Comprehensive Medical Benchmark in Chinese",
+        "status": "accept"
+    },
+    {
+        "author": "Weiran Wang, Rohit Prabhavalkar, Haozhe Shan, Zhong Meng, Dongseong Hwang, Qiujia Li, Khe Chai Sim, Bo Li, James Qin, Xingyu Cai, Adam Stooke, Chengjian Zheng, Yanzhang He, Tara N. Sainath, Pedro Moreno Mengibar:",
+        "title": "Massive End-to-end Speech Recognition Models with Time Reduction",
+        "status": "accept"
+    },
+    {
+        "author": "Arash Ardakani, Altan Haan, Shangyin Tan, Doru-Thom Popovici, Alvin Cheung, Costin Iancu, Koushik Sen:",
+        "title": "SlimFit: Memory-Efficient Fine-Tuning of Transformer-based Models Using Training Dynamics",
+        "status": "accept"
+    },
+    {
+        "author": "Xi Ye, Ruoxi Sun, Sercan Ö. Arik, Tomas Pfister:",
+        "title": "Effective Large Language Model Adaptation for Improved Grounding and Citation Generation",
+        "status": "accept"
+    },
+    {
+        "author": "Yijia Shao, Yucheng Jiang, Theodore A. Kanell, Peter Xu, Omar Khattab, Monica S. Lam:",
+        "title": "Assisting in Writing Wikipedia-like Articles From Scratch with Large Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Omar Shaikh, Kristina Gligoric, Ashna Khetan, Matthias Gerstgrasser, Diyi Yang, Dan Jurafsky:",
+        "title": "Grounding Gaps in Language Model Generations",
+        "status": "accept"
+    },
+    {
+        "author": "Christos Baziotis, Biao Zhang, Alexandra Birch, Barry Haddow:",
+        "title": "When Does Monolingual Data Help Multilingual Translation: The Role of Domain and Model Scale",
+        "status": "accept"
+    },
+    {
+        "author": "Adir Rahamim, Yonatan Belinkov:",
+        "title": "ContraSim - Analyzing Neural Representations Based on Contrastive Learning",
+        "status": "accept"
+    },
+    {
+        "author": "Zongyu Wu, Hongcheng Gao, Yueze Wang, Xiang Zhang, Suhang Wang:",
+        "title": "Universal Prompt Optimizer for Safe Text-to-Image Generation",
+        "status": "accept"
+    },
+    {
+        "author": "Junjie Chen, Xiangheng He, Yusuke Miyao:",
+        "title": "Language Model Based Unsupervised Dependency Parsing with Conditional Mutual Information and Grammatical Constraints",
+        "status": "accept"
+    },
+    {
+        "author": "Preethi Seshadri, Sameer Singh, Yanai Elazar:",
+        "title": "The Bias Amplification Paradox in Text-to-Image Generation",
+        "status": "accept"
+    },
+    {
+        "author": "Agustín Lucas, Alexis Baladón, Victoria Pardiñas, Marvin M. Agüero-Torales, Santiago Góngora, Luis Chiruzzo:",
+        "title": "Grammar-based Data Augmentation for Low-Resource Languages: The Case of Guarani-Spanish Neural Machine Translation",
+        "status": "accept"
+    },
+    {
+        "author": "Anjishnu Mukherjee, Aylin Caliskan, Ziwei Zhu, Antonios Anastasopoulos:",
+        "title": "Global Gallery: The Fine Art of Painting Culture Portraits through Multilingual Instruction Tuning",
+        "status": "accept"
+    },
+    {
+        "author": "Jungbeom Lee, Sanghyuk Chun, Sangdoo Yun:",
+        "title": "Toward Interactive Regional Understanding in Vision-Large Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Jaeseong Lee, Dohyeon Lee, Seung-won Hwang:",
+        "title": "ScriptMix: Mixing Scripts for Low-resource Language Parsing",
+        "status": "accept"
+    },
+    {
+        "author": "Jiahuan Li, Shanbo Cheng, Shujian Huang, Jiajun Chen:",
+        "title": "MT-PATCHER: Selective and Extendable Knowledge Distillation from Large Language Models for Machine Translation",
+        "status": "accept"
+    },
+    {
+        "author": "Nhat M. Hoang, Xuan Long Do, Duc Anh Do, Duc Anh Vu, Anh Tuan Luu:",
+        "title": "ToXCL: A Unified Framework for Toxic Speech Detection and Explanation",
+        "status": "accept"
+    },
+    {
+        "author": "Yue Xu, Wenjie Wang:",
+        "title": "LinkPrompt: Natural and Universal Adversarial Attacks on Prompt-based Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Hanchong Zhang, Ruisheng Cao, Hongshen Xu, Lu Chen, Kai Yu:",
+        "title": "CoE-SQL: In-Context Learning for Multi-Turn Text-to-SQL with Chain-of-Editions",
+        "status": "accept"
+    },
+    {
+        "author": "Jierui Li, Vipul Raheja, Dhruv Kumar:",
+        "title": "ContraDoc: Understanding Self-Contradictions in Documents with Large Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Junxiong Wang, Ali Mousavi, Omar Attia, Ronak Pradeep, Saloni Potdar, Alexander M. Rush, Umar Farooq Minhas, Yunyao Li:",
+        "title": "Entity Disambiguation via Fusion Entity Decoding",
+        "status": "accept"
+    },
+    {
+        "author": "Myeonghwa Lee, Seonho An, Min-Soo Kim:",
+        "title": "PlanRAG: A Plan-then-Retrieval Augmented Generation for Generative Large Language Models as Decision Makers",
+        "status": "accept"
+    },
+    {
+        "author": "Jinlan Fu, See-Kiong Ng, Zhengbao Jiang, Pengfei Liu:",
+        "title": "GPTScore: Evaluate as You Desire",
+        "status": "accept"
+    },
+    {
+        "author": "Jiahui Geng, Fengyu Cai, Yuxia Wang, Heinz Koeppl, Preslav Nakov, Iryna Gurevych:",
+        "title": "A Survey of Confidence Estimation and Calibration in Large Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Tianyi Tang, Hongyuan Lu, Yuchen Jiang, Haoyang Huang, Dongdong Zhang, Wayne Xin Zhao, Tom Kocmi, Furu Wei:",
+        "title": "Not All Metrics Are Guilty: Improving NLG Evaluation by Diversifying References",
+        "status": "accept"
+    },
+    {
+        "author": "Jing Xu, Dandan Song, Siu Hui, Zhijing Wu, Meihuizi Jia, Hao Wang, Yanru Zhou, Changzhi Zhou, Ziyi Yang:",
+        "title": "Separation and Fusion: A Novel Multiple Token Linking Model for Event Argument Extraction",
+        "status": "accept"
+    },
+    {
+        "author": "Muzhi Li, Minda Hu, Irwin King, Ho-fung Leung:",
+        "title": "The Integration of Semantic and Structural Knowledge in Knowledge Graph Entity Typing",
+        "status": "accept"
+    },
+    {
+        "author": "Kenan Jiang, Xuehai He, Ruize Xu, Xin Wang:",
+        "title": "ComCLIP: Training-Free Compositional Image and Text Matching",
+        "status": "accept"
+    },
+    {
+        "author": "Sotaro Takeshita, Tommaso Green, Ines Reinig, Kai Eckert, Simone Paolo Ponzetto:",
+        "title": "ACLSum: A New Dataset for Aspect-based Summarization of Scientific Publications",
+        "status": "accept"
+    },
+    {
+        "author": "Yun Luo, Zhen Yang, Fandong Meng, Yingjie Li, Fang Guo, Qinglin Qi, Jie Zhou, Yue Zhang:",
+        "title": "XAL: EXplainable Active Learning Makes Classifiers Better Low-resource Learners",
+        "status": "accept"
+    },
+    {
+        "author": "Yuchi Wang, Shuhuai Ren, Rundong Gao, Linli Yao, Qingyan Guo, Kaikai An, Jianhong Bai, Xu Sun:",
+        "title": "LaDiC: Are Diffusion Models Really Inferior to Autoregressive Counterparts for Image-to-Text Generation? 6699-671",
+        "status": "accept"
+    },
+    {
+        "author": "Amey Hengle, Aswini Padhi, Sahajpreet Singh, Anil Bandhakavi, Md. Shad Akhtar, Tanmoy Chakraborty:",
+        "title": "Intent-conditioned and Non-toxic Counterspeech Generation using Multi-Task Instruction Tuning with RLAIF",
+        "status": "accept"
+    },
+    {
+        "author": "Zhichen Dong, Zhanhui Zhou, Chao Yang, Jing Shao, Yu Qiao:",
+        "title": "Attacks, Defenses and Evaluations for LLM Conversation Safety: A Survey",
+        "status": "accept"
+    },
+    {
+        "author": "Weize Liu, Guocong Li, Kai Zhang, Bang Du, Qiyuan Chen, Xuming Hu, Hongxia Xu, Jintai Chen, Jian Wu:",
+        "title": "Mind's Mirror: Distilling Self-Evaluation Capability and Comprehensive Thinking from Large Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Björn Deiseroth, Max Meuer, Nikolas Gritsch, Constantin Eichenberg, Patrick Schramowski, Matthias Aßenmacher, Kristian Kersting:",
+        "title": "Divergent Token Metrics: Measuring degradation to prune away LLM components - and optimize quantization",
+        "status": "accept"
+    },
+    {
+        "author": "Yuval Reif, Roy Schwartz:",
+        "title": "Beyond Performance: Quantifying and Mitigating Label Bias in LLMs",
+        "status": "accept"
+    },
+    {
+        "author": "Zhenyu Wu, Chao Shen, Meng Jiang:",
+        "title": "Instructing Large Language Models to Identify and Ignore Irrelevant Conditions",
+        "status": "accept"
+    },
+    {
+        "author": "Anej Svete, Franz Nowak, Anisha Mohamed Sahabdeen, Ryan Cotterell:",
+        "title": "Lower Bounds on the Expressivity of Recurrent Neural Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Anej Svete, Ryan Cotterell:",
+        "title": "Transformers Can Represent n-gram Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Luca Malagutti, Andrius Buinovskij, Anej Svete, Clara Meister, Afra Amini, Ryan Cotterell:",
+        "title": "The Role of n-gram Smoothing in the Age of Neural Networks",
+        "status": "accept"
+    },
+    {
+        "author": "Sergio Burdisso, Dairazalia Sanchez-Cortes, Esaú Villatoro-Tello, Petr Motlícek:",
+        "title": "Reliability Estimation of News Media Sources: Birds of a Feather Flock Together",
+        "status": "accept"
+    },
+    {
+        "author": "Takeshi Kojima, Itsuki Okimura, Yusuke Iwasawa, Hitomi Yanaka, Yutaka Matsuo:",
+        "title": "On the Multilingual Ability of Decoder-based Pre-trained Language Models: Finding and Controlling Language-Specific Neurons",
+        "status": "accept"
+    },
+    {
+        "author": "Atnafu Lambebo Tonja, Fazlourrahman Balouchzahi, Sabur Butt, Olga Kolesnikova, Hector G. Ceballos, Alexander F. Gelbukh, Thamar Solorio:",
+        "title": "NLP Progress in Indigenous Latin American Languages",
+        "status": "accept"
+    },
+    {
+        "author": "Yi-Ling Chung, Jonathan Bright:",
+        "title": "On the Effectiveness of Adversarial Robustness for Abuse Mitigation with Counterspeech",
+        "status": "accept"
+    },
+    {
+        "author": "César Gonzalez-Gutiérrez, Ariadna Quattoni:",
+        "title": "Leveraging the Structure of Pre-trained Embeddings to Minimize Annotation Effort",
+        "status": "accept"
+    },
+    {
+        "author": "Yijun Yang, Jie He, Pinzhen Chen, Víctor Gutiérrez-Basulto, Jeff Z. Pan:",
+        "title": "UniArk: Improving Generalisation and Consistency for Factual Knowledge Extraction through Debiasing",
+        "status": "accept"
+    },
+    {
+        "author": "Soyeong Jeong, Jinheon Baek, Sukmin Cho, Sung Ju Hwang, Jong Park:",
+        "title": "Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity",
+        "status": "accept"
+    },
+    {
+        "author": "Yukun Zhao, Lingyong Yan, Weiwei Sun, Guoliang Xing, Chong Meng, Shuaiqiang Wang, Zhicong Cheng, Zhaochun Ren, Dawei Yin:",
+        "title": "Knowing What LLMs DO NOT Know: A Simple Yet Effective Self-Detection Method",
+        "status": "accept"
+    },
+    {
+        "author": "Yifu Qiu, Zheng Zhao, Yftah Ziser, Anna Korhonen, Edoardo Maria Ponti, Shay B. Cohen:",
+        "title": "Are Large Language Model Temporally Grounded? 7064-708",
+        "status": "accept"
+    },
+    {
+        "author": "Yupu Liang, Yaping Zhang, Cong Ma, Zhiyang Zhang, Yang Zhao, Lu Xiang, Chengqing Zong, Yu Zhou:",
+        "title": "Document Image Machine Translation with Dynamic Multi-pre-trained Models Assembling",
+        "status": "accept"
+    },
+    {
+        "author": "Nico Daheim, Nouha Dziri, Mrinmaya Sachan, Iryna Gurevych, Edoardo M. Ponti:",
+        "title": "Elastic Weight Removal for Faithful and Abstractive Dialogue Generation",
+        "status": "accept"
+    },
+    {
+        "author": "Hanning Zhang, Shizhe Diao, Yong Lin, Yi R. Fung, Qing Lian, Xingyao Wang, Yangyi Chen, Heng Ji, Tong Zhang:",
+        "title": "R-Tuning: Instructing Large Language Models to Say 'I Don't Know'",
+        "status": "accept"
+    },
+    {
+        "author": "Yangyifan Xu, Jinliang Lu, Jiajun Zhang:",
+        "title": "Bridging the Gap between Different Vocabularies for LLM Ensemble",
+        "status": "accept"
+    },
+    {
+        "author": "Xindi Luo, Zequn Sun, Jing Zhao, Zhe Zhao, Wei Hu:",
+        "title": "KnowLA: Enhancing Parameter-efficient Finetuning with Knowledgeable Adaptation",
+        "status": "accept"
+    },
+    {
+        "author": "Lysa Xiao:",
+        "title": "Extremely Weakly-supervised Text Classification with Wordsets Mining and Sync-Denoising",
+        "status": "accept"
+    },
+    {
+        "author": "Junhong Wu, Yuchen Liu, Chengqing Zong:",
+        "title": "F-MALLOC: Feed-forward Memory Allocation for Continual Learning in Neural Machine Translation",
+        "status": "accept"
+    },
+    {
+        "author": "Denis Jered McInerney, William Dickinson, Lucy C. Flynn, Andrea Young, Geoffrey Young, Jan-Willem van de Meent, Byron C. Wallace:",
+        "title": "Towards Reducing Diagnostic Errors with Interpretable Risk Prediction",
+        "status": "accept"
+    },
+    {
+        "author": "Akshay Singh, Rahul Thakur:",
+        "title": "Generalizable Multilingual Hate Speech Detection on Low Resource Indian Languages using Fair Selection in Federated Learning",
+        "status": "accept"
+    },
+    {
+        "author": "Nadezhda Chirkova, Vassilina Nikoulina:",
+        "title": "Key ingredients for effective zero-shot cross-lingual knowledge transfer in generative tasks",
+        "status": "accept"
+    },
+    {
+        "author": "Jackson Petty, Sjoerd van Steenkiste, Ishita Dasgupta, Fei Sha, Dan Garrette, Tal Linzen:",
+        "title": "The Impact of Depth on Compositional Generalization in Transformer Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Neha Srikanth, Rupak Sarkar, Heran Mane, Elizabeth Aparicio, Quynh C. Nguyen, Rachel Rudinger, Jordan L. Boyd-Graber:",
+        "title": "Pregnant Questions: The Importance of Pragmatic Awareness in Maternal Health Question Answering",
+        "status": "accept"
+    },
+    {
+        "author": "Josef Valvoda, Ryan Cotterell:",
+        "title": "Towards Explainability in Legal Outcome Prediction Models",
+        "status": "accept"
+    },
+    {
+        "author": "Junyi Li, Charith Peris, Ninareh Mehrabi, Palash Goyal, Kai-Wei Chang, Aram Galstyan, Richard S. Zemel, Rahul Gupta:",
+        "title": "The steerability of large language models toward data-driven personas",
+        "status": "accept"
+    },
+    {
+        "author": "Xiang Jiang, Markus Dreyer:",
+        "title": "CCSum: A Large-Scale and High-Quality Dataset for Abstractive News Summarization",
+        "status": "accept"
+    },
+    {
+        "author": "Negar Mokhberian, Myrl G. Marmarelis, Frederic R. Hopp, Valerio Basile, Fred Morstatter, Kristina Lerman:",
+        "title": "Capturing Perspectives of Crowdsourced Annotators in Subjective Learning Tasks",
+        "status": "accept"
+    },
+    {
+        "author": "Barkavi Sundararajan, Yaji Sripada, Ehud Reiter:",
+        "title": "Improving Factual Accuracy of Neural Table-to-Text Output by Addressing Input Problems in ToTTo",
+        "status": "accept"
+    },
+    {
+        "author": "Jason Cai, Hang Su, Monica Sunkara, Igor Shalyminov, Saab Mansour:",
+        "title": "CERET: Cost-Effective Extrinsic Refinement for Text Generation",
+        "status": "accept"
+    },
+    {
+        "author": "Subhendu Khatuya, Rajdeep Mukherjee, Akash Ghosh, Manjunath Hegde, Koustuv Dasgupta, Niloy Ganguly, Saptarshi Ghosh, Pawan Goyal:",
+        "title": "Parameter-Efficient Instruction Tuning of Large Language Models For Extreme Financial Numeral Labelling",
+        "status": "accept"
+    },
+    {
+        "author": "Maryam Davoodi, Dan Goldwasser:",
+        "title": "Analysis of State-Level Legislative Process in Enhanced Linguistic and Nationwide Network Contexts",
+        "status": "accept"
+    },
+    {
+        "author": "Simran Khanuja, Srinivas Gowriraj, Lucio M. Dery, Graham Neubig:",
+        "title": "DeMuX: Data-efficient Multilingual Learning",
+        "status": "accept"
+    },
+    {
+        "author": "Ramraj Chandradevan, Kaustubh D. Dhole, Eugene Agichtein:",
+        "title": "DUQGen: Effective Unsupervised Domain Adaptation of Neural Rankers by Diversifying Synthetic Query Generation",
+        "status": "accept"
+    },
+    {
+        "author": "Yilun Hua, Nicholas Chernogor, Yuzhe Gu, Seoyeon Julie Jeong, Miranda Luo, Cristian Danescu-Niculescu-Mizil:",
+        "title": "How did we get here? Summarizing conversation dynamics",
+        "status": "accept"
+    },
+    {
+        "author": "Hyundong Cho, Shuai Liu, Taiwei Shi, Darpan Jain, Basem Rizk, Yuyang Huang, Zixun Lu, Nuan Wen, Jonathan Gratch, Emilio Ferrara, Jonathan May:",
+        "title": "Can Language Model Moderators Improve the Health of Online Discourse? 7478-749",
+        "status": "accept"
+    },
+    {
+        "author": "Dongwei Jiang, Marcio Fonseca, Shay B. Cohen:",
+        "title": "LeanReasoner: Boosting Complex Logical Reasoning with Lean",
+        "status": "accept"
+    },
+    {
+        "author": "Jason Wu, Eldon Schoop, Alan Leung, Titus Barik, Jeffrey P. Bigham, Jeffrey Nichols:",
+        "title": "UICoder: Finetuning Large Language Models to Generate User Interface Code through Automated Feedback",
+        "status": "accept"
+    },
+    {
+        "author": "Leandro Rodrigues de Souza, Thales Sales Almeida, Roberto A. Lotufo, Rodrigo Frassetto Nogueira:",
+        "title": "Measuring Cross-lingual Transfer in Bytes",
+        "status": "accept"
+    },
+    {
+        "author": "Tamanna Hossain, Sunipa Dev, Sameer Singh:",
+        "title": "MisgenderMender: A Community-Informed Approach to Interventions for Misgendering",
+        "status": "accept"
+    },
+    {
+        "author": "Wei-Rui Chen, Ife Adebara, Muhammad Abdul-Mageed:",
+        "title": "Interplay of Machine Translation, Diacritics, and Diacritization",
+        "status": "accept"
+    },
+    {
+        "author": "Ming Li, Yong Zhang, Zhitao Li, Jiuhai Chen, Lichang Chen, Ning Cheng, Jianzong Wang, Tianyi Zhou, Jing Xiao:",
+        "title": "From Quantity to Quality: Boosting LLM Performance with Self-Guided Data Selection for Instruction Tuning",
+        "status": "accept"
+    },
+    {
+        "author": "Taiwei Shi, Kai Chen, Jieyu Zhao:",
+        "title": "Safer-Instruct: Aligning Language Models with Automated Preference Data",
+        "status": "accept"
+    },
+    {
+        "author": "Joseph Peper, Wenzhao Qiu, Lu Wang:",
+        "title": "PELMS: Pre-training for Effective Low-Shot Multi-Document Summarization",
+        "status": "accept"
+    },
+    {
+        "author": "Bangzheng Li, Ben Zhou, Fei Wang, Xingyu Fu, Dan Roth, Muhao Chen:",
+        "title": "Deceptive Semantic Shortcuts on Reasoning Chains: How Far Can Models Go without Hallucination? 7675-768",
+        "status": "accept"
+    },
+    {
+        "author": "Saurabh Kumar, Sanasam Ranbir Sanasam, Sukumar Nandi:",
+        "title": "IndiSentiment140: Sentiment Analysis Dataset for Indian Languages with Emphasis on Low-Resource Languages using Machine Translation",
+        "status": "accept"
+    },
+    {
+        "author": "Nandan Thakur, Jianmo Ni, Gustavo Hernández Ábrego, John Wieting, Jimmy Lin, Daniel Cer:",
+        "title": "Leveraging LLMs for Synthesizing Training Data Across Many Languages in Multilingual Dense Retrieval",
+        "status": "accept"
+    },
+    {
+        "author": "Hyunjong Ok, Taeho Kil, Sukmin Seo, Jaeho Lee:",
+        "title": "SCANNER: Knowledge-Enhanced Approach for Robust Multi-modal Named Entity Recognition of Unseen Entities",
+        "status": "accept"
+    },
+    {
+        "author": "Yuan Tian, Nan Xu, Wenji Mao:",
+        "title": "A Theory Guided Scaffolding Instruction Framework for LLM-Enabled Metaphor Reasoning",
+        "status": "accept"
+    },
+    {
+        "author": "Yu-Neng Chuang, Tianwei Xing, Chia-Yuan Chang, Zirui Liu, Xun Chen, Xia Ben Hu:",
+        "title": "Learning to Compress Prompt in Natural Language Formats",
+        "status": "accept"
+    },
+    {
+        "author": "Haojie Zhuang, Wei Emma Zhang, Leon Xie, Weitong Chen, Jian Yang, Quan Sheng:",
+        "title": "Automatic, Meta and Human Evaluation for Multimodal Summarization with Multimodal Output",
+        "status": "accept"
+    },
+    {
+        "author": "Jianlin Su, Murtadha H. M. Ahmed, Bo Wen, Luo Ao, Mingren Zhu, Yunfeng Liu:",
+        "title": "Naive Bayes-based Context Extension for Large Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Meryem M'hamdi, Jonathan May:",
+        "title": "Leitner-Guided Memory Replay for Cross-lingual Continual Learning",
+        "status": "accept"
+    },
+    {
+        "author": "David Arps, Laura Kallmeyer, Younes Samih, Hassan Sajjad:",
+        "title": "Multilingual Nonce Dependency Treebanks: Understanding how Language Models Represent and Process Syntactic Structure",
+        "status": "accept"
+    },
+    {
+        "author": "Jinggui Liang, Lizi Liao, Hao Fei, Bobo Li, Jing Jiang:",
+        "title": "Actively Learn from LLMs with Uncertainty Propagation for Generalized Category Discovery",
+        "status": "accept"
+    },
+    {
+        "author": "Alexandros Vasileiou, Oliver Eberle:",
+        "title": "Explaining Text Similarity in Transformer Models",
+        "status": "accept"
+    },
+    {
+        "author": "Huiming Wang, Zhaodonghui Li, Liying Cheng, De Wen Soh, Lidong Bing:",
+        "title": "Large Language Models can Contrastively Refine their Generation for Better Sentence Representation Learning",
+        "status": "accept"
+    },
+    {
+        "author": "Jaeyoung Kim, Dohyeon Lee, Seung-won Hwang:",
+        "title": "HIL: Hybrid Isotropy Learning for Zero-shot Performance in Dense retrieval",
+        "status": "accept"
+    },
+    {
+        "author": "Jan Pfister, Andreas Hotho:",
+        "title": "SuperGLEBer: German Language Understanding Evaluation Benchmark",
+        "status": "accept"
+    },
+    {
+        "author": "Christopher Bagdon, Prathamesh Karmalkar, Harsha Gurulingappa, Roman Klinger:",
+        "title": "\"You are an expert annotator\": Automatic Best-Worst-Scaling Annotations for Emotion Intensity Modeling",
+        "status": "accept"
+    },
+    {
+        "author": "Yan Zeng, Hanbo Zhang, Jiani Zheng, Jiangnan Xia, Guoqiang Wei, Yang Wei, Yuchen Zhang, Tao Kong, Ruihua Song:",
+        "title": "What Matters in Training a GPT4-Style Language Model with Multimodal Inputs? 7937-796",
+        "status": "accept"
+    },
+    {
+        "author": "Jie Ruan, Wenqing Wang, Xiaojun Wan:",
+        "title": "Defining and Detecting Vulnerability in Human Evaluation Guidelines: A Preliminary Study Towards Reliable NLG Evaluation",
+        "status": "accept"
+    },
+    {
+        "author": "Simone Conia, Edoardo Barba, Abelardo Carlos Martinez Lorenzo, Pere-Lluís Huguet Cabot, Riccardo Orlando, Luigi Procopio, Roberto Navigli:",
+        "title": "MOSAICo: a Multilingual Open-text Semantically Annotated Interlinked Corpus",
+        "status": "accept"
+    },
+    {
+        "author": "Brian Formento, Wenjie Feng, Chuan-Sheng Foo, Anh Tuan Luu, See-Kiong Ng:",
+        "title": "SemRoDe: Macro Adversarial Training to Learn Representations that are Robust to Word-Level Attacks",
+        "status": "accept"
+    },
+    {
+        "author": "Joseph Cornelius, Oscar Lithgow-Serrano, Sandra Mitrovic, Ljiljana Dolamic, Fabio Rinaldi:",
+        "title": "BUST: Benchmark for the evaluation of detectors of LLM-Generated Text",
+        "status": "accept"
+    },
+    {
+        "author": "Chong Li, Shaonan Wang, Jiajun Zhang, Chengqing Zong:",
+        "title": "Improving In-context Learning of Multilingual Generative Language Models with Cross-lingual Alignment",
+        "status": "accept"
+    },
+    {
+        "author": "Xianwei Zhuang, Zhichang Wang, Xuxin Cheng, Yuxin Xie, Liming Liang, Yuexian Zou:",
+        "title": "MaCSC: Towards Multimodal-augmented Pre-trained Language Models via Conceptual Prototypes and Self-balancing Calibration",
+        "status": "accept"
+    },
+    {
+        "author": "Yusuke Sakai, Hidetaka Kamigaito, Katsuhiko Hayashi, Taro Watanabe:",
+        "title": "Does Pre-trained Language Model Actually Infer Unseen Links in Knowledge Graph Completion? 8091-810",
+        "status": "accept"
+    },
+    {
+        "author": "Aswin Suresh, Lazar Radojevic, Francesco Salvi, Antoine Magron, Victor Kristof, Matthias Grossglauser:",
+        "title": "Discovering Lobby-Parliamentarian Alignments through NLP",
+        "status": "accept"
+    },
+    {
+        "author": "Yunah Jang, Kang-il Lee, Hyunkyung Bae, Hwanhee Lee, Kyomin Jung:",
+        "title": "IterCQR: Iterative Conversational Query Reformulation with Retrieval Guidance",
+        "status": "accept"
+    },
+    {
+        "author": "Huang Huang, Fei Yu, Jianqing Zhu, Xuening Sun, Hao Cheng, Dingjie Song, Zhihong Chen, Mosen Alharthi, Bang An, Juncai He, Ziche Liu, Junying Chen, Jianquan Li, Benyou Wang, Lian Zhang, Ruoyu Sun, Xiang Wan, Haizhou Li, Jinchao Xu:",
+        "title": "AceGPT, Localizing Large Language Models in Arabic",
+        "status": "accept"
+    },
+    {
+        "author": "Zhiwei He, Xing Wang, Wenxiang Jiao, Zhuosheng Zhang, Rui Wang, Shuming Shi, Zhaopeng Tu:",
+        "title": "Improving Machine Translation with Human Feedback: An Exploration of Quality Estimation as a Reward Model",
+        "status": "accept"
+    },
+    {
+        "author": "Zhuang Chen, Jiawen Deng, Jinfeng Zhou, Jincenzi Wu, Tieyun Qian, Minlie Huang:",
+        "title": "Depression Detection in Clinical Interviews with LLM-Empowered Structural Element Graph",
+        "status": "accept"
+    },
+    {
+        "author": "Evgeniia Razumovskaia, Goran Glavas, Anna Korhonen, Ivan Vulic:",
+        "title": "SQATIN: Supervised Instruction Tuning Meets Question Answering for Improved Dialogue NLU",
+        "status": "accept"
+    },
+    {
+        "author": "Mohammad Khosravani, Chenyang Huang, Amine Trabelsi:",
+        "title": "Enhancing Argument Summarization: Prioritizing Exhaustiveness in Key Point Generation and Introducing an Automatic Coverage Evaluation Metric",
+        "status": "accept"
+    },
+    {
+        "author": "Bo Pang, Caiming Xiong, Yingbo Zhou:",
+        "title": "ARM: Alignment with Residual Energy-Based Model",
+        "status": "accept"
+    },
+    {
+        "author": "Milan Gritta, Gerasimos Lampouras, Ignacio Iacobacci:",
+        "title": "HumanRankEval: Automatic Evaluation of LMs as Conversational Assistants",
+        "status": "accept"
+    },
+    {
+        "author": "Siddharth Vashishtha, Alexander Martin, William Gantt, Benjamin Van Durme, Aaron Steven White:",
+        "title": "FAMuS: Frames Across Multiple Sources",
+        "status": "accept"
+    },
+    {
+        "author": "Haoyuan Li, Snigdha Chaturvedi:",
+        "title": "Rationale-based Opinion Summarization",
+        "status": "accept"
+    },
+    {
+        "author": "Jan Melechovský, Zixun Guo, Deepanway Ghosal, Navonil Majumder, Dorien Herremans, Soujanya Poria:",
+        "title": "Mustango: Toward Controllable Text-to-Music Generation",
+        "status": "accept"
+    },
+    {
+        "author": "Emilio Villa-Cueva, Adrián Pastor López-Monroy, Fernando Sánchez-Vega, Thamar Solorio:",
+        "title": "Adaptive Cross-lingual Text Classification through In-Context One-Shot Demonstrations",
+        "status": "accept"
+    },
+    {
+        "author": "Giuliano Martinelli, Francesco Molfese, Simone Tedeschi, Alberte Fernández-Castro, Roberto Navigli:",
+        "title": "CNER: Concept and Named Entity Recognition",
+        "status": "accept"
+    },
+    {
+        "author": "Swarnadeep Saha, Omer Levy, Asli Celikyilmaz, Mohit Bansal, Jason Weston, Xian Li:",
+        "title": "Branch-Solve-Merge Improves Large Language Model Evaluation and Generation",
+        "status": "accept"
+    },
+    {
+        "author": "Weijia Shi, Sewon Min, Michihiro Yasunaga, Minjoon Seo, Richard James, Mike Lewis, Luke Zettlemoyer, Wen-tau Yih:",
+        "title": "REPLUG: Retrieval-Augmented Black-Box Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Xiaochuang Han, Sachin Kumar, Yulia Tsvetkov, Marjan Ghazvininejad:",
+        "title": "David helps Goliath: Inference-Time Collaboration Between Small Specialized and Large General Diffusion LMs",
+        "status": "accept"
+    },
+    {
+        "author": "Wang Zhu, Alekh Agarwal, Mandar Joshi, Robin Jia, Jesse Thomason, Kristina Toutanova:",
+        "title": "Efficient End-to-End Visual Document Understanding with Rationale Distillation",
+        "status": "accept"
+    },
+    {
+        "author": "Tiwalayo Eisape, Michael Henry Tessler, Ishita Dasgupta, Fei Sha, Sjoerd van Steenkiste, Tal Linzen:",
+        "title": "A Systematic Comparison of Syllogistic Reasoning in Humans and Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Pietro Lesci, Andreas Vlachos:",
+        "title": "AnchorAL: Computationally Efficient Active Learning for Large and Imbalanced Datasets",
+        "status": "accept"
+    },
+    {
+        "author": "Shengjie Li, Vincent Ng:",
+        "title": "ICLE++: Modeling Fine-Grained Traits for Holistic Essay Scoring",
+        "status": "accept"
+    },
+    {
+        "author": "Wenting Zhao, Justin T. Chiu, Jena D. Hwang, Faeze Brahman, Jack Hessel, Sanjiban Choudhury, Yejin Choi, Xiang Li, Alane Suhr:",
+        "title": "UNcommonsense Reasoning: Abductive Reasoning about Uncommon Situations",
+        "status": "accept"
+    },
+    {
+        "author": "Sanchaita Hazra, Bodhisattwa Prasad Majumder:",
+        "title": "To Tell The Truth: Language of Deception and Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Rolando Coto-Solano, Tai-Wan Kim, Alexander Jones, Sharid Loáiciga:",
+        "title": "Multilingual Models for ASR in Chibchan Languages",
+        "status": "accept"
+    },
+    {
+        "author": "Alexander Spangher, Zihan Xue, Te-Lin Wu, Mark Hansen, Jonathan May:",
+        "title": "LegalDiscourse: Interpreting When Laws Apply and To Whom",
+        "status": "accept"
+    },
+    {
+        "author": "Minqian Liu, Ying Shen, Zhiyang Xu, Yixin Cao, Eunah Cho, Vaibhav Kumar, Reza Ghanadan, Lifu Huang:",
+        "title": "X-Eval: Generalizable Multi-aspect Text Evaluation via Augmented Instruction Tuning with Auxiliary Evaluation Aspects",
+        "status": "accept"
+    },
+    {
+        "author": "Shuqian Sheng, Yi Xu, Luoyi Fu, Jiaxin Ding, Lei Zhou, Xinbing Wang, Chenghu Zhou:",
+        "title": "Is Reference Necessary in the Evaluation of NLG Systems? When and Where? 8580-859",
+        "status": "accept"
+    },
+    {
+        "author": "Xin Su, Tiep Le, Steven Bethard, Phillip Howard:",
+        "title": "Semi-Structured Chain-of-Thought: Integrating Multiple Sources of Knowledge for Improved Language Model Reasoning",
+        "status": "accept"
+    },
+    {
+        "author": "S. M. Seals, Valerie L. Shalin:",
+        "title": "Evaluating the Deductive Competence of Large Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Nikita Soni, H. Andrew Schwartz, João Sedoc, Niranjan Balasubramanian:",
+        "title": "Large Human Language Models: A Need and the Challenges",
+        "status": "accept"
+    },
+    {
+        "author": "Yixin Liu, Kejian Shi, Katherine He, Longtian Ye, Alexander R. Fabbri, Pengfei Liu, Dragomir Radev, Arman Cohan:",
+        "title": "On Learning to Summarize with Large Language Models as References",
+        "status": "accept"
+    },
+    {
+        "author": "Yu Xia, Xu Liu, Tong Yu, Sungchul Kim, Ryan A. Rossi, Anup B. Rao, Tung Mai, Shuai Li:",
+        "title": "Hallucination Diversity-Aware Active Learning for Text Summarization",
+        "status": "accept"
+    },
+    {
+        "author": "Calvin Bao, Marine Carpuat:",
+        "title": "Keep it Private: Unsupervised Privatization of Online Text",
+        "status": "accept"
+    },
+    {
+        "author": "Adithya Renduchintala, Tugrul Konuk, Oleksii Kuchaiev:",
+        "title": "Tied-LoRA: Enhancing parameter efficiency of LoRA with Weight Tying",
+        "status": "accept"
+    },
+    {
+        "author": "Chunyuan Deng, Yilun Zhao, Xiangru Tang, Mark Gerstein, Arman Cohan:",
+        "title": "Investigating Data Contamination in Modern Benchmarks for Large Language Models",
+        "status": "accept"
+    },
+    {
+        "author": "Runhui Wang, Yongfeng Zhang:",
+        "title": "Pre-trained Language Models for Entity Blocking: A Reproducibility Study",
+        "status": "accept"
+    },
+    {
+        "author": "Pritika Ramu, Sijia Wang, Lalla Mouatadid, Joy Rimchala, Lifu Huang:",
+        "title": "RE²: Region-Aware Relation Extraction from Visually Rich Documents",
+        "status": "accept"
+    },
+    {
+        "author": "Yuxiang Nie, Heyan Huang, Xian-Ling Mao, Lizi Liao:",
+        "title": "Mix-Initiative Response Generation with Dynamic Prefix Tuning",
+        "status": "accept"
+    },
+    {
+        "author": "Jing Yao, Xiaoyuan Yi, Yifan Gong, Xiting Wang, Xing Xie:",
+        "title": "Value FULCRA: Mapping Large Language Models to the Multidimensional Spectrum of Basic Human Value",
+        "status": "accept"
+    },
+    {
+        "author": "Nihar R. Sahoo, Pranamya Prashant Kulkarni, Arif Ahmad, Tanu Goyal, Narjis Asad, Aparna Garimella, Pushpak Bhattacharyya:",
+        "title": "IndiBias: A Benchmark Dataset to Measure Social Biases in Language Models for Indian Context",
+        "status": "accept"
+    }
+]
